@@ -44,7 +44,8 @@ title: "Global Education Observatory"
   </a>
 
   {{ site.geospatial | size }} geospatial datasets<br>
-  {{ site.personnel | size }} personnel datasets
+  {{ site.personnel | size }} personnel datasets<br>
+  {{ site.baseurl }}
     
 
 </div>

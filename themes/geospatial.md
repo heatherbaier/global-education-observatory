@@ -15,7 +15,7 @@ title: "Geospatial Datasets"
   <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
 
     {% for item in site.geospatial %}
-      <a href="{{ item.url }}"
+      <a href="{{ site.baseurl }}{{ item.url }}"
          class="block bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md hover:border-blue-400 transition p-6">
 
           <!-- Icon -->
