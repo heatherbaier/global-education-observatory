@@ -1,7 +1,7 @@
 ---
 title: "Philippines"
 country: "Philippines"
-file: "/data/personnel/phl_personnel.csv"
+file: "/global-education-observatory/data/personnel/phl_personnel.csv"
 layout: dataset
 theme: personnel
 ---
