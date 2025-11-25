@@ -2,6 +2,6 @@
 title: "Honduras"
 country: "Honduras"
 file: "/data/personnel/hnd_personnel.csv"
-layout: dataset
+layout: dataset_personnel
 theme: personnel
 ---
