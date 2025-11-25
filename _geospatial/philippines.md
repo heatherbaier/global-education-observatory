@@ -1,7 +1,8 @@
 ---
-title: "Philippines"
+title: "Philippines Geospatial"
 country: "Philippines"
-file: "/data/geospatial/philippines.geojson"
+file: "/global-education-observatory/data/geospatial/philippines.geojson"
+csv: "/global-education-observatory/data/geospatial/philippines.csv"
 layout: dataset
 theme: geospatial
 ---
