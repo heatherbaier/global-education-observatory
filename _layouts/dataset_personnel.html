@@ -46,7 +46,7 @@
 
       <script>
       // Load CSV (first 10 rows)
-      fetch("{{ page.file }}")
+      fetch("{{ page.csv }}")
         .then(response => response.text())
         .then(csv => {
           const rows = csv.split("\n").slice(1, 11); // ignore header + take 10
