@@ -38,26 +38,6 @@
       </a>
     </div>
 
-    <!-- Metadata Table -->
-    <div class="bg-white p-6 rounded-xl shadow border">
-      <h2 class="text-2xl font-bold mb-4">Metadata</h2>
-      <table class="w-full text-left">
-        <thead>
-          <tr class="border-b">
-            <th class="py-2 font-semibold">Column</th>
-            <th class="py-2 font-semibold">Description</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for col in site.data.personnel.metadata.columns %}
-          <tr class="border-b">
-            <td class="py-2 text-gray-700">{{ col[0] }}</td>
-            <td class="py-2 text-gray-600">{{ col[1] }}</td>
-          </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-    </div>
 
     <!-- Chart Section -->
     <div class="bg-white p-6 rounded-xl shadow border">
