@@ -13,9 +13,9 @@ title: "Geospatial Datasets"
   <ul class="space-y-3">
     {% for item in site.geospatial %}
       <li>
-        <a href="{{ item.url }}" class="text-blue-600 hover:text-blue-800 text-lg">
+        <!-- <a href="{{ item.url }}" class="text-blue-600 hover:text-blue-800 text-lg"> -->
           {{ item.country }}
-        </a>
+        <!-- </a> -->
       </li>
     {% endfor %}
   </ul>
