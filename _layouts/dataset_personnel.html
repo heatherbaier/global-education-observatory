@@ -25,17 +25,17 @@
 
     <!-- Download Tiles -->
     <div class="grid grid-cols-2 gap-6">
-      <a href="{{ page.file | replace: '.csv','.csv' }}" download
+      <a href="{{ page.csv | replace: '.csv','.csv' }}" download
          class="block bg-white shadow p-6 rounded-xl border hover:shadow-lg">
         <div class="text-xl font-semibold">Download CSV</div>
         <p class="text-gray-600 text-sm">Full personnel dataset for {{ page.country }}</p>
       </a>
 
-      <a href="{{ page.file | replace: '.csv','.geojson' }}" download
+      <!-- <a href="{{ page.file | replace: '.csv','.geojson' }}" download
          class="block bg-white shadow p-6 rounded-xl border hover:shadow-lg">
         <div class="text-xl font-semibold">Download GeoJSON</div>
         <p class="text-gray-600 text-sm">Geospatial version if available</p>
-      </a>
+      </a> -->
     </div>
 
 
