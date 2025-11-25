@@ -19,13 +19,13 @@ title: "Global Education Observatory"
 <!-- Theme Cards -->
 <div class="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6 pb-20">
 
-  <a href="/global-education-observatory/themes/geospatial/geospatial.html" 
+  <a href="/global-education-observatory/themes/geospatial.html" 
      class="p-6 bg-white rounded-xl shadow hover:shadow-lg transition">
     <h2 class="text-xl font-semibold">Geospatial</h2>
     <p class="text-gray-600 mt-2">Boundary files, school locations, administrative layers.</p>
   </a>
 
-  <a href="/global-education-observatory/themes/personnel/" 
+  <a href="/global-education-observatory/themes/personnel.html" 
      class="p-6 bg-white rounded-xl shadow hover:shadow-lg transition">
     <h2 class="text-xl font-semibold">Personnel</h2>
     <p class="text-gray-600 mt-2">Teacher counts, qualifications, pupil-teacher ratios.</p>
