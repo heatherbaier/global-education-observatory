@@ -26,5 +26,5 @@ defaults:
       path: ""
       type: personnel
     values:
-      layout: dataset
+      layout: dataset_personnel
       theme: personnel
