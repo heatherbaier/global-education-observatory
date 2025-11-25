@@ -43,6 +43,10 @@ title: "Global Education Observatory"
     <p class="text-gray-600 mt-2">Test scores, dropout, completion rates, transitions.</p>
   </a>
 
+  {{ site.geospatial | size }} geospatial datasets<br>
+  {{ site.personnel | size }} personnel datasets
+    
+
 </div>
 
 <!-- Load Leaflet -->
