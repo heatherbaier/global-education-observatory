@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }}</title>
+
+  <!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body class="bg-gray-50 text-gray-800">
+  <div class="max-w-5xl mx-auto py-10 space-y-10">
+
+    <!-- Title -->
+    <div>
+      <h1 class="text-3xl font-bold">{{ page.country }} — Personnel Data</h1>
+      <p class="text-gray-600 mt-2">
+        Teacher counts, gender splits, and student enrollment statistics.
+      </p>
+    </div>
+
+    <!-- Download Tiles -->
+    <div class="grid grid-cols-2 gap-6">
+      <a href="{{ page.file | replace: '.csv','.csv' }}" download
+         class="block bg-white shadow p-6 rounded-xl border hover:shadow-lg">
+        <div class="text-xl font-semibold">Download CSV</div>
+        <p class="text-gray-600 text-sm">Full personnel dataset for {{ page.country }}</p>
+      </a>
+
+      <a href="{{ page.file | replace: '.csv','.geojson' }}" download
+         class="block bg-white shadow p-6 rounded-xl border hover:shadow-lg">
+        <div class="text-xl font-semibold">Download GeoJSON</div>
+        <p class="text-gray-600 text-sm">Geospatial version if available</p>
+      </a>
+    </div>
+
+    <!-- Metadata Table -->
+    <div class="bg-white p-6 rounded-xl shadow border">
+      <h2 class="text-2xl font-bold mb-4">Metadata</h2>
+      <table class="w-full text-left">
+        <thead>
+          <tr class="border-b">
+            <th class="py-2 font-semibold">Column</th>
+            <th class="py-2 font-semibold">Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for col in site.data.personnel.metadata.columns %}
+          <tr class="border-b">
+            <td class="py-2 text-gray-700">{{ col[0] }}</td>
+            <td class="py-2 text-gray-600">{{ col[1] }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Chart Section -->
+    <div class="bg-white p-6 rounded-xl shadow border">
+      <h2 class="text-2xl font-semibold mb-4">Teacher & Student Counts (First 10 Rows)</h2>
+      <canvas id="personnelChart" height="140"></canvas>
+
+      <script>
+      // Load CSV (first 10 rows)
+      fetch("{{ page.file }}")
+        .then(response => response.text())
+        .then(csv => {
+          const rows = csv.split("\n").slice(1, 11); // ignore header + take 10
+          const labels = [];
+          const teacherMale = [];
+          const teacherFemale = [];
+          const studentMale = [];
+          const studentFemale = [];
+
+          rows.forEach(r => {
+            const cols = r.split(",");
+            labels.push(cols[0]); // geo_id
+            teacherMale.push(Number(cols[3]));
+            teacherFemale.push(Number(cols[4]));
+            studentMale.push(Number(cols[6]));
+            studentFemale.push(Number(cols[7]));
+          });
+
+          new Chart(document.getElementById("personnelChart"), {
+            type: "bar",
+            data: {
+              labels: labels,
+              datasets: [
+                { label: "Teacher Male", data: teacherMale, backgroundColor: "#1d4ed8" },
+                { label: "Teacher Female", data: teacherFemale, backgroundColor: "#3b82f6" },
+                { label: "Student Male", data: studentMale, backgroundColor: "#047857" },
+                { label: "Student Female", data: studentFemale, backgroundColor: "#10b981" }
+              ]
+            },
+            options: {
+              responsive: true,
+              plugins: { legend: { position: "bottom" } },
+              scales: {
+                x: { stacked: true },
+                y: { stacked: true, beginAtZero: true }
+              }
+            }
+          });
+        });
+      </script>
+    </div>
+
+  </div>
+</body>
+</html>
