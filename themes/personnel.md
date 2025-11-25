@@ -3,12 +3,21 @@ layout: default
 title: "Personnel Datasets"
 ---
 
-<h1 class="text-3xl font-bold mb-4">Personnel Datasets</h1>
+<div class="max-w-4xl mx-auto py-10">
+  <h1 class="text-3xl font-bold mb-6">Personnel Datasets</h1>
 
-<ul class="space-y-2 text-blue-700">
-{% for item in site.personnel %}
-  <li>
-    <a href="{{ item.url }}">{{ item.country }}</a>
-  </li>
-{% endfor %}
-</ul>
+  <p class="text-gray-600 mb-6">
+    Countries with personnel/teacher datasets:
+  </p>
+
+  <ul class="space-y-3">
+    {% for item in site.personnel %}
+      <li>
+        <a href="{{ item.url }}" 
+           class="text-blue-600 hover:text-blue-800 text-lg">
+          {{ item.country }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
