@@ -10,14 +10,30 @@ title: "Geospatial Datasets"
     Countries with geospatial datasets available:
   </p>
 
-  <ul class="space-y-3">
-    {% for item in site.geospatial %}
-      <li>
-        <!-- <a href="{{ item.url }}" class="text-blue-600 hover:text-blue-800 text-lg"> -->
-          {{ item.country }}
-        <!-- </a> -->
-      </li>
+  <ul>
+  {% for staff_member in site.geospatial %}
+  <h2>
+    <a href="{{ staff_member.url }}">
+      {{ staff_member.country }}
+    </a>
+  </h2>
     {% endfor %}
   </ul>
+
+
+
+
+  <!-- <ul class="space-y-3">
+    {% for country in site.geospatial %}
+      <li>
+        <a href="{{ item.url }}" class="text-blue-600 hover:text-blue-800 text-lg">
+          {{ country.country }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul> -->
+
+    
+
 
 </div>
