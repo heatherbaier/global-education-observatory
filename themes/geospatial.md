@@ -3,37 +3,36 @@ layout: default
 title: "Geospatial Datasets"
 ---
 
-<div class="max-w-4xl mx-auto py-10">
-  <h1 class="text-3xl font-bold mb-6">Geospatial Datasets</h1>
+<div class="max-w-5xl mx-auto py-10">
 
-  <p class="text-gray-600 mb-6">
-    Countries with geospatial datasets available:
+  <h1 class="text-4xl font-bold mb-6 text-gray-800">Geospatial Datasets</h1>
+
+  <p class="text-gray-600 mb-8 text-lg">
+    Countries with available geospatial boundary & location datasets.
   </p>
 
-  <ul>
-  {% for staff_member in site.geospatial %}
-  <h2>
-    <a href="{{ staff_member.url }}">
-      {{ staff_member.country }}
-    </a>
-  </h2>
+  <!-- Grid of cards -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+
+    {% for item in site.geospatial %}
+      <a href="{{ item.url }}"
+         class="block bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md hover:border-blue-400 transition p-6">
+
+          <!-- Icon -->
+          <div class="flex items-center mb-4">
+            <span class="material-icons text-blue-600 text-3xl mr-3">public</span>
+            <h2 class="text-xl font-semibold text-gray-800">{{ item.country }}</h2>
+          </div>
+
+          <p class="text-gray-600 text-sm">
+            Click to view dataset
+          </p>
+
+      </a>
     {% endfor %}
-  </ul>
 
-
-
-
-  <!-- <ul class="space-y-3">
-    {% for country in site.geospatial %}
-      <li>
-        <a href="{{ item.url }}" class="text-blue-600 hover:text-blue-800 text-lg">
-          {{ country.country }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul> -->
-
-    
-
-
+  </div>
 </div>
+
+<!-- Google Material Icons -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
