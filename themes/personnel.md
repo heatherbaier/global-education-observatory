@@ -13,7 +13,7 @@ title: "Personnel Datasets"
   <ul class="space-y-3">
     {% for item in site.personnel %}
       <li>
-        <a href="{{ item.url }}" 
+        <a href="{{ site.baseurl }}{{ item.url }}" 
            class="text-blue-600 hover:text-blue-800 text-lg">
           {{ item.country }}
         </a>
