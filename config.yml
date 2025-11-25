@@ -1,0 +1,28 @@
+collections:
+  personnel:
+    output: true
+    permalink: /personnel/:name/
+  geospatial:
+    output: true
+    permalink: /geospatial/:name/
+  resources:
+    output: true
+    permalink: /resources/:name/
+  outcomes:
+    output: true
+    permalink: /outcomes/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: personnel
+    values:
+      layout: dataset
+      theme: personnel
+
+  - scope:
+      path: ""
+      type: geospatial
+    values:
+      layout: dataset
+      theme: geospatial

@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<div class="max-w-4xl mx-auto p-6">
+
+  <h1 class="text-3xl font-bold mb-4">{{ page.country }} — {{ page.theme | capitalize }} Data</h1>
+
+  <p class="text-gray-600 mb-6">
+    Source: {{ site.data[page.theme].metadata.source }}  
+    <br>
+    Last updated: {{ site.data[page.theme].metadata.last_updated }}
+  </p>
+
+  <!-- METADATA TABLE -->
+  <h2 class="text-xl font-semibold mb-2">Column Definitions</h2>
+  <table class="w-full bg-white rounded-xl shadow">
+    <tr class="border-b bg-gray-100 font-semibold">
+      <td class="p-2">Column</td>
+      <td class="p-2">Description</td>
+    </tr>
+
+    {% for col, desc in site.data[page.theme].metadata.columns %}
+    <tr class="border-b">
+      <td class="p-2">{{ col }}</td>
+      <td class="p-2">{{ desc }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+
+  <!-- DOWNLOAD -->
+  <h2 class="text-xl font-semibold mt-10">Download</h2>
+  <a class="text-blue-600" href="{{ page.file }}">Download Data</a>
+
+  <!-- PREVIEW CHART -->
+  <h2 class="text-xl font-semibold mt-10">Preview Visualization</h2>
+  <canvas id="chart" class="mt-4"></canvas>
+
+</div>
+
+
+<!-- JS FOR CSV + CHART -->
+<script src="/assets/js/papaparse.js"></script>
+<script src="/assets/js/chart.js"></script>
+
+<script>
+  Papa.parse("{{ page.file }}", {
+    header: true,
+    download: true,
+    complete: function(results) {
+      const rows = results.data.slice(0, 20);
+
+      const labels = rows.map((_, i) => "Row " + (i+1));
+      const values = rows.map(r => parseFloat(r.teachers_total || 0));
+
+      new Chart(document.getElementById("chart"), {
+        type: "bar",
+        data: {
+          labels: labels,
+          datasets: [{
+            label: "Teacher Count (sample)",
+            data: values
+          }]
+        }
+      });
+    }
+  });
+</script>
