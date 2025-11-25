@@ -25,39 +25,19 @@
   <!-- Download Tiles -->
   <div class="grid grid-cols-2 gap-4 mb-10">
 
-    <a href="{{ page.file }}" download
+    <a href="{{ page.csv }}" download
        class="block border rounded-xl p-6 bg-white shadow hover:shadow-md">
       <h2 class="font-bold text-lg mb-1">Download CSV</h2>
       <p class="text-sm text-gray-600">{{ page.file }}</p>
     </a>
 
-    <a href="{{ page.file | replace: '.csv', '.geojson' }}" download
+    <!-- <a href="{{ page.file | replace: '.csv', '.geojson' }}" download
        class="block border rounded-xl p-6 bg-white shadow hover:shadow-md">
       <h2 class="font-bold text-lg mb-1">Download GeoJSON</h2>
       <p class="text-sm text-gray-600">GeoJSON version</p>
-    </a>
+    </a> -->
 
   </div>
-
-  <!-- Metadata -->
-  <h2 class="text-2xl font-semibold mb-3">Metadata</h2>
-  <table class="w-full mb-10 border">
-    <thead class="bg-gray-200 text-left">
-      <tr>
-        <th class="p-2">Column</th>
-        <th class="p-2">Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% assign meta = site.data[page.theme].metadata %}
-      {% for col in meta %}
-      <tr class="border-t">
-        <td class="p-2">{{ col.column }}</td>
-        <td class="p-2">{{ col.description }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
 
   <!-- Year Selector -->
   <div class="mb-6">
@@ -82,7 +62,7 @@ async function loadCSV(url) {
 }
 
 (async () => {
-    const fileURL = "{{ page.file }}";
+    const fileURL = "{{ page.csv }}";
     const data = await loadCSV(fileURL);
 
     // Extract available years
