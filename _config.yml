@@ -3,16 +3,16 @@ theme: null
 collections:
   geospatial:
     output: true
-    permalink: /geospatial/:name/
+    permalink: /global-education-observatory/geospatial/:name/
   personnel:
     output: true
-    permalink: /personnel/:name/
+    permalink: /global-education-observatory/personnel/:name/
   resources:
     output: true
-    permalink: /resources/:name/
+    permalink: /global-education-observatory/resources/:name/
   outcomes:
     output: true
-    permalink: /outcomes/:name/
+    permalink: /global-education-observatory/outcomes/:name/
 
 defaults:
   - scope:
