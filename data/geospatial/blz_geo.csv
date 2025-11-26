@@ -1,0 +1,482 @@
+geo_id,deped_id,school_name,address,adm0,adm1,adm2,adm3,longitude,latitude
+BLZ-000001,P19004,Muslim Community Primary,Corner Central American Blvd & Faber's Rood  Belize City  Belize,BLZ,Belize,Port Loyola,,-88.200574,17.48878
+BLZ-000002,K12104,Mustard Seed Preschool,"6 Mamie Rd, Ladyville, Belize",BLZ,Belize,Belize Rural North,,-88.29585201,17.55032327
+BLZ-000003,K20105,Myrtle Banner Preschool,"Camalote Village, Cayo District",BLZ,Cayo,Cayo South,,-88.8160634,17.2504027
+BLZ-000004,P60101,Na Luum Ca Government Primary School,Na Luum Ca Village,BLZ,Toledo,Toledo West,,-89.080682,16.286352
+BLZ-000005,K54004,Nazarene Bright Start Preschool,"1 Magoon St, Dangriga Town",BLZ,,Dangriga,,-88.22058954,16.96817306
+BLZ-000006,S15001,Nazarene High School,"31 Princess Margaret Drive, Belize City",BLZ,Belize,Caribbean Shores,,-88.1981201,17.507925
+BLZ-000007,K54103,Nazarene Preschool,Aubrey Gorbon St. Independence Village,BLZ,Stann Creek,Stann Creek West,,-88.416849,16.536964
+BLZ-000008,S47001,New Hope High School,"Rear Stadium Street, Orange Walk Town",BLZ,Orange Walk,Orange Walk North,,-88.57558464,18.08423719
+BLZ-000009,P14003,New Horizon SDA Primary School,Escalante Subdivision  San Pedro Town  Belize C.A,BLZ,Belize,Belize Rural North,,-87.978804,17.903028
+BLZ-000010,P20106,New Life Government Primary-CYO,Duck Run 1 Village  Spanish Lookout  Cayo District,BLZ,Cayo,Cayo North East,,-89.0195925,17.2195085
+BLZ-000011,K44001,New Life Presbyterian Preschool,Holy Trinity & Tate St,BLZ,Orange Walk,Orange Walk North,,-88.5626669,18.0928431
+BLZ-000012,P49003,New Life Presbyterian Primary,Holy Trinity & Tate Street,BLZ,Orange Walk,Orange Walk North,,-88.5626669,18.0928431
+BLZ-000013,P41403,Nuevo San Juan RC Primary,Nuevo San Juan Village,BLZ,Orange Walk,Orange Walk North,,-88.578292,18.226415
+BLZ-000014,S17003,Ocean Academy High School,"Ocean Academy Drive, Caye Caulker",BLZ,,Belize Rural North,,-88.029892,17.7366771
+BLZ-000015,P29401,Ontario Christian Primary,56 miles George Price Highway,BLZ,Cayo,Cayo Central,,-88.8899186,17.2265739
+BLZ-000016,S40001,Orange Walk Technical High School,"Stadium Street, PO Box 126",BLZ,Orange Walk,Orange Walk North,,-88.5726507,18.0855768
+BLZ-000017,K64111,Our Lady of Bella Vista RC Preschool,Bella Vista Village,BLZ,Toledo,Toledo East,,-88.5340734,16.5093409
+BLZ-000018,P61301,Our Lady of Bella Vista RC Primary,Bella Vista Village,BLZ,Toledo,Toledo East,,-88.5340734,16.5093409
+BLZ-000019,P41201,Our Lady of Fatima RC Primary,Douglas Village,BLZ,Orange Walk,Orange Walk Central,,-88.567239,18.08223
+BLZ-000020,P21405,Our Lady of Fatima RC Primary-CYO,Roaring Creek Village,BLZ,Cayo,Cayo South,,-88.7922639,17.2595782
+BLZ-000021,S21004,Our Lady of Guadalupe RC High School,George Price Boulevard  P. O. Box 479  City of Belmopan,BLZ,Cayo,Belmopan,,-88.76513798,17.26747375
+BLZ-000022,K34121,Our Lady of Guadalupe RC Preschool,"Altamira, Corozal",BLZ,Corozal,Corozal North,,-88.3834572,18.4021551
+BLZ-000023,P31401,Our Lady of Guadalupe RC Primary School,"Altamira, Corozal Town",BLZ,Corozal,Corozal North,,-88.3834572,18.4021551
+BLZ-000024,P21008,Our Lady of Guadalupe RC Primary-CYO,East Ring Road,BLZ,Cayo,Belmopan,,-88.76365421,17.24926728
+BLZ-000025,K12103,Our Lady of Lourdes Preschool,"Maskall Village, Belize District",BLZ,Belize,Belize Rural North,,-88.313076,17.881997
+BLZ-000026,P11202,Our Lady of Lourdes RC Primary,Maskall Village,BLZ,Belize,Belize Rural North,,-88.313076,17.881997
+BLZ-000027,S21002,Our lady of Mount Carmel High School,Cors. Jose Marti Street/Mount Carmel Lane  Benque Viejo del Carmen Town,BLZ,Cayo,Cayo West,,-89.13514763,17.0724036
+BLZ-000028,K64117,Our Lady of Sorrows Preschool,Dolores Vilage,BLZ,Toledo,Toledo East,,-89.21158215,15.98958548
+BLZ-000029,P61106,Our Lady of Sorrows R.C Primary,Dolores Village,BLZ,Toledo,Toledo East,,-89.21158215,15.98958548
+BLZ-000030,P11403,Our Lady of the Way Primary,"9 1/4 Miles Phillip Goldson Highway  Ladyville, Belize District",BLZ,Belize,Belize Rural North,,-88.297967,17.548532
+BLZ-000031,S11001,Pallotti High School,Princess Margaret Drive,BLZ,Belize,Caribbean Shores,,-88.1971102,17.5050251
+BLZ-000032,P19402,Pancotto Primary,Sand Hill Village  Belize District,BLZ,Belize,Belize Rural North,,-88.3686216,17.6308428
+BLZ-000033,P30403,Paraiso Government Primary School,Paraiso Village,BLZ,Corozal,Corozal North,,-88.39463336,18.40985129
+BLZ-000034,K34111,Patchakan RC Preschool,"Patchakan Village, Corozal Dist",BLZ,Corozal,Corozal North,,-88.47301758,18.40201008
+BLZ-000035,P31408,Patchakan RC Primary School,Patchakan Village,BLZ,Corozal,Corozal North,,-88.47301758,18.40201008
+BLZ-000036,K42101,Pete Lizarraga Preschool,San Estevan,BLZ,Orange Walk,Orange Walk East,,-88.51224,18.156316
+BLZ-000037,K12003,Pine Street Community Preschool,"2 Pine Street, Belize City",BLZ,Belize,Collet,,-88.19860721,17.49717291
+BLZ-000038,K34002,Play World Methodist Preschool,"57-1 st Ave, Corozal Town",BLZ,Corozal,Corozal Bay,,-88.3846929,18.3914223
+BLZ-000039,K51101,Pomona Hope Preschool,"New Sites, 11 miles, Pomona Valley",BLZ,Stann Creek,Stann Creek West,,-88.349628,16.993729
+BLZ-000040,K12004,Port Loyola Community Preschool,Corner Central American Blvd & Fabers Rd,BLZ,Belize,Queen Square,,-88.20001551,17.48844127
+BLZ-000041,K31004,Presbyterian Day Preschool,Cristo Rey Village,BLZ,Corozal,Corozal North,,-88.49613895,18.34980796
+BLZ-000042,P39450,Presbyterian Day Primary School,Cristo Rey Village /PO Box 274,BLZ,Corozal,Corozal North,,-88.49613895,18.34980796
+BLZ-000043,P31103,Progresso RC Primary School,Progresso Village,BLZ,Corozal,Corozal South East,,-88.40945715,18.23599445
+BLZ-000044,K30104,Progresso Rising Star Preschool,Progresso Village,BLZ,Corozal,Corozal South East,,-88.41093826,18.22866581
+BLZ-000045,P34403,Progresso Zills SDA Primary,"Progresso Village, Corozal District",BLZ,Corozal,Corozal South East,,-88.40501605,18.23560771
+BLZ-000046,S64101,Providence SDA High School,San Antonio Village,BLZ,Toledo,Toledo West,,-89.016305,16.248588
+BLZ-000047,K64116,Pueblo Viejo RC Preschool,"Pueblo Viejo Village,   Toledo District  Belize C. A",BLZ,Toledo,Toledo West,,-89.139379,16.207806
+BLZ-000048,P63001,Punta Gorda Methodist Primary,"Front Street, Punta Gorda Town",BLZ,,Toledo East,,-88.801299,16.101592
+BLZ-000049,P12004,Queen Square Anglican Primary,"1 Armadillo Street, Belize City",BLZ,Belize,Mesopotamia,,-88.1944353,17.49048
+BLZ-000050,P19005,Queen Street Baptist Primary School,"# 1 Corner Eve & Queen Street, Belize City",BLZ,Belize,Fort George,,-88.183864,17.497816
+BLZ-000051,P30404,Ranchito Government Primary School,Ranchito Village  Corozal District,BLZ,Corozal,Corozal North,,-88.4122235,18.3796863
+BLZ-000052,K30103,Ranchito Little Star Preschool,Ranchito Village,BLZ,Corozal,Corozal North,,-88.4122235,18.3796863
+BLZ-000053,P25401,Raymond Sheppard Nazarene Primary School,Roaring Creek Village,BLZ,Cayo,Cayo South,,-88.7915227,17.2585413
+BLZ-000054,K54111,Red Bank Christian Preschool,Red Bank Village  Stann Creek,BLZ,Stann Creek,Stann Creek West,,-88.56008,16.61964
+BLZ-000055,P56302,Red Bank Christian School,Red Bank Village  Stann Creek District    Belize,BLZ,Stann Creek,Stann Creek West,,-88.56008,16.61964
+BLZ-000056,K34109,Redeemer Presbyterian Preschool,San Narciso Village,BLZ,Corozal,Corozal South East,,-88.442672,18.348944
+BLZ-000057,K54113,Richard Quinn RC Preschool,Georgetown Village,BLZ,Stann Creek,Stann Creek West,,-88.50952111,16.65261144
+BLZ-000058,P51302,Richard Quinn RC Primary School,Georgetown Village,BLZ,Stann Creek,Stann Creek West,,-88.50952111,16.65261144
+BLZ-000059,S21001,Sacred Heart College,"Joseph Andrew Drive, PO Box 163",BLZ,Cayo,Cayo North East,,-89.07501095,17.16106939
+BLZ-000060,K64110,Sacred Heart Preschool,Crique Sarco Village,BLZ,Toledo,Toledo East,,-89.105606,15.984
+BLZ-000061,P51004,Sacred Heart RC Primary School,77 Sisters Of Holy Family Avenue,BLZ,,Dangriga,,-88.22269528,16.9725543
+BLZ-000062,P61105,Sacred Heart RC Primary School,Crique Sarco Village,BLZ,Toledo,Toledo East,,-89.105606,15.984
+BLZ-000063,P21005,Sacred Heart RC Primary School-CYO,"Church Street, San Ignacio Town",BLZ,Cayo,Cayo North East,,-89.07204999,17.15722596
+BLZ-000064,S10004,Sadie Vernon Technical High School,Cor. Morning Glory & Partridge Street,BLZ,Belize,Lake Independence,,-88.200535,17.501393
+BLZ-000065,K10103,Saint Agnes Anglican Preschool,La Democracia Village,BLZ,Belize,Belize Rural North,,-88.55136,17.343174
+BLZ-000066,P12304,Saint Agnes Anglican Primary School,La Democracia/Mahogany Heights,BLZ,Belize,Belize Rural North,,-88.55092,17.343375
+BLZ-000067,K54106,Saint Alphonsus Preschool,Seine Bight,BLZ,,Stann Creek West,,-88.36658,16.56613
+BLZ-000068,P51201,Saint Alphonsus RC Primary,Seine Bight Village,BLZ,,Stann Creek West,,-88.36658,16.56613
+BLZ-000069,P22001,Saint Andrew Anglican Primary School,"72 West Street, San Ignacio",BLZ,Cayo,Cayo North East,,-89.07193407,17.162648
+BLZ-000070,K24007,Saint Andrew's Anglican Preschool,"San Ignacio, Cayo District",BLZ,Cayo,Cayo North East,,-89.071738,17.162568
+BLZ-000071,P22002,Saint Ann's Anglican Primary School,"Independence Park Area, Belmopan",BLZ,Cayo,Belmopan,,-88.7686522,17.2498284
+BLZ-000072,K54112,Saint Augustine Preschool,"23 Mile Hummingbird Highway, Middlesex",BLZ,Stann Creek,Stann Creek West,,-88.51212,17.02708
+BLZ-000073,P51404,Saint Augustine RC Primary School,23 miles Hummingbird Highway,BLZ,Stann Creek,Stann Creek West,,-88.51212,17.02708
+BLZ-000074,P22402,Saint Barnabas Anglican Primary School,Central Farm,BLZ,Cayo,Cayo Central,,-89.00141388,17.1865311
+BLZ-000075,P61003,Saint Benedict RC Primary,"Toledo Hope/Indianville, Punta Gorda Town",BLZ,Toledo,Toledo East,,-88.8175708,16.104267
+BLZ-000076,S11002,Saint Catherine Academy,"6 Hutson St., Belize City",BLZ,,Fort George,,-88.18271036,17.49654584
+BLZ-000077,P60105,Saint Cuthberts Primary School,Punta Negra Village,BLZ,,Toledo East,,-88.544527,16.272939
+BLZ-000078,P21407,Saint Edmund Campion Primary School,Teakettle Village,BLZ,Cayo,Cayo Central,,-88.8571977,17.2250142
+BLZ-000079,K34003,Saint Francis Xavier Preschool,Corner 1st Street North and 4 Avenue,BLZ,Corozal,Corozal Bay,,-88.38581614,18.39089699
+BLZ-000080,P31002,Saint Francis Xavier Primary School,Corner 4th Avenue & 1st St. North,BLZ,Corozal,Corozal Bay,,-88.38581614,18.39089699
+BLZ-000081,P21408,Saint Francis Xavier RC Primary School-CYO,"Esperanza Village,",BLZ,Cayo,Cayo North East,,-89.03596134,17.18062135
+BLZ-000082,K24114,Saint Hilda's Anglican Preschool,"Georgeville Village, Cayo District",BLZ,Cayo,Cayo Central,,-88.97925,17.19352
+BLZ-000083,P22401,Saint Hilda's Anglican Primary School,Georgeville Village,BLZ,Cayo,Cayo Central,,-88.97925,17.19352
+BLZ-000084,S21003,Saint Ignatius High School,"#2A George Price Avenue,  Santa Elena Town,   Cayo District  Belize C.A.",BLZ,Cayo,Cayo Central,,-89.06653845,17.15785688
+BLZ-000085,P11007,Saint Ignatius RC Primary School,"75 Euphrates Avenue, Belize City",BLZ,Belize,Queen Square,,-88.19226641,17.49181137
+BLZ-000086,K24002,Hope Presbyterian Preschool,"La Loma Luz Blvd, Santa Elena",BLZ,Cayo,Cayo Central,,-89.06008382,17.17237462
+BLZ-000087,K34118,Copper Bank RC Preschool,Copper Bank,BLZ,Corozal,Corozal South East,,-88.3564069,18.3200791
+BLZ-000088,P31101,Copper Bank RC Primary School,Copper Bank,BLZ,Corozal,Corozal South East,,-88.3564069,18.3200791
+BLZ-000089,S50102,Agriculture and Natural Resource Institute - ANRI,"Canada Hill Road, Stann Creek",BLZ,Stann Creek,Stann Creek West,,-88.353042,16.977876
+BLZ-000090,P61101,Aguacate RC Primary,Aguacate Village,BLZ,Toledo,Toledo West,,-89.091994,16.161555
+BLZ-000091,K50001,Alexia Nolberto PreSchool,Wagie'le   Benguche Extension  Dangriga Town,BLZ,Stann Creek,Dangriga,,-88.2295573,16.97709801
+BLZ-000092,K24105,All God's Children Preschool,"Another World, Roaring Creek",BLZ,Cayo,Cayo South,,-88.79888588,17.26315121
+BLZ-000093,K44101,All God's Children Preschool,San Lazaro Village  Orange Walk District  Belize C.A,BLZ,Orange Walk,Orange Walk South,,-88.6604248,18.03806787
+BLZ-000094,P12001,All Saints Anglican Primary School,"First & Dunn Street, Kings Park",BLZ,Belize,Freetown,,-88.19344599,17.50660556
+BLZ-000095,S29101,Alvin L. Young Nazarene High,San Jose Succotz,BLZ,Cayo,Cayo West,,-89.1235953,17.077725
+BLZ-000096,K24004,Howard Smith Nazarene Preschool,"Juanito Gongora St., Benque Viejo",BLZ,Cayo,Cayo West,,-89.1337927,17.073336
+BLZ-000097,S12001,Anglican Cathedral College,71 Regent Street,BLZ,Belize,Albert,,-88.1877227,17.4891354
+BLZ-000098,P25001,Howard Smith Nazarene Primary,Juanito Gongora Street,BLZ,Cayo,Cayo West,,-89.1337927,17.073336
+BLZ-000099,K14002,Anglican Diocesan Preschool,1 Angel Lane,BLZ,Belize,Fort George,,-88.18431715,17.49564532
+BLZ-000100,K24109,Armenia Development Preschool,"46 miles Hummingbird Highway, Armenia Village",BLZ,Cayo,Cayo South,,-88.74521394,17.15541443
+BLZ-000101,P20101,Iguana Creek Government Primary,Selena Village,BLZ,Cayo,Cayo Central,,-88.98886432,17.29344996
+BLZ-000102,P20401,Armenia Government Primary School,Mile 46 Hummingbird Highway,BLZ,Cayo,Cayo South,,-88.74495422,17.15552726
+BLZ-000103,P21401,Immaculate Conception RC Primary,Bullet Tree Falls Village,BLZ,Cayo,Cayo North,,-89.1118166,17.17028661
+BLZ-000104,K23003,Arms of Love Preschool,"Kontiki Area, San Ignacio",BLZ,Cayo,Cayo North,,-89.07821862,17.14441666
+BLZ-000105,S50101,Independence High School,"Savannah Road, Independence Village",BLZ,Stann Creek,Stann Creek West,,-88.42424198,16.53673198
+BLZ-000106,P61104,Corazon Creek RC Primary,Corazon Creek Village,BLZ,Toledo,Toledo West,,-89.122435,16.053486
+BLZ-000107,S60102,Corazon Creek Technical High,"Carzon Creek Village, Toledo",BLZ,Toledo,Toledo West,,-89.119719,16.053391
+BLZ-000108,P29002,Arms of Love Primary,Kontiki Area,BLZ,Cayo,Cayo North,,-89.07819206,17.14421006
+BLZ-000109,S37101,Cornerstone Presbyterian High School,"Box 232  Mile 74 1/2 Philip Goldson Highway  Corozal District  Belize, Central America",BLZ,Corozal,Corozal North,,-88.4913423,18.320742
+BLZ-000110,K39001,Corozal Church of Christ Preschool,"Santa Maria Street  Hall's Layout,   Corozal Town",BLZ,Corozal,Corozal Bay,,-88.3977439,18.3921435
+BLZ-000111,K44104,August Pine Ridge Preschool,August Pine Ridge Village,BLZ,Orange Walk,Orange Walk South,,-88.72686586,17.97276769
+BLZ-000112,P39001,Corozal Church of Christ Primary School,"Santa Maria Street  Hall's Layout,   Corozal Town",BLZ,Corozal,Corozal Bay,,-88.3977439,18.3921435
+BLZ-000113,P41401,August Pine Ridge RC Primary,August Pine Ridge,BLZ,Orange Walk,Orange Walk South,,-88.7267839,17.9731652
+BLZ-000114,S39001,Corozal Community College,P.O. Box 63  San Andres  Corozal District,BLZ,Corozal,Corozal North,,-88.4057988,18.394154
+BLZ-000115,P50103,Independence Primary,"Independence Village, SC District",BLZ,Stann Creek,Stann Creek West,,-88.41500479,16.53484501
+BLZ-000116,S34101,Belize Adventist College,San Roman  Corozal District,BLZ,Corozal,Corozal North,,-88.43607,18.36517
+BLZ-000117,P40101,Indian Church Government Primary,"Indian Church Village,  Orange Walk District",BLZ,Orange Walk,Orange Walk South,,-88.65842716,17.75312214
+BLZ-000118,P61202,Indian Creek RC Primary,Indian Creek Village,BLZ,Toledo,Toledo East,,-88.832219,16.312807
+BLZ-000119,V10001,ITVET- Belize,Belize City,BLZ,Belize,Freetown,,-88.19242732,17.50313465
+BLZ-000120,P33001,Corozal Methodist Primary School,"57 1st Avenue,  Town",BLZ,Corozal,Corozal Bay,,-88.3846929,18.3914223
+BLZ-000121,V30101,ITVET- Corozal,Corozal Town,BLZ,Corozal,Corozal North,,-88.402469,18.4060471
+BLZ-000122,V40001,ITVET- Orange Walk,Orange Walk Town,BLZ,Orange Walk,Orange Walk North,,-88.5746002,18.0984573
+BLZ-000123,K34004,Corozal Nazarene Preschool,Corozal District,BLZ,Corozal,Corozal Bay,,-88.3893545,18.3901086
+BLZ-000124,P35001,Corozal Nazarene Primary School,"5 Fifth Avenue,  Corozal Town",BLZ,Corozal,Corozal Bay,,-88.3893545,18.3901086
+BLZ-000125,S40101,Belize High School of Agriculture,San Lazaro/Trinidad,BLZ,Orange Walk,Orange Walk South,,-88.6730195,18.0305483
+BLZ-000126,P60102,Crique Jute Government Primary,Crique Jute Village,BLZ,Toledo,Toledo West,,-89.016066,16.272375
+BLZ-000127,S10101,Belize Rural High School,"Double Head Cabbage,  Belize District",BLZ,Belize,Belize Rural North,,-88.5557391,17.5517134
+BLZ-000128,K24102,Cristo Rey RC Preschool,Cristo Rey Village,BLZ,Cayo,Cayo North,,-89.05491947,17.13238108
+BLZ-000129,P10302,Belize Rural Primary School,"Double Head, Flowers Bank, Rancho, Bermudian Landing",BLZ,Belize,Belize Rural North,,-88.5554351,17.5531873
+BLZ-000130,K34103,Cristo Rey RC Preschool,Cristo Rey Village,BLZ,Corozal,Corozal North,,-88.49621509,18.34813114
+BLZ-000131,V50101,ITVET- Stann Creek,"Hope Creek Village, SC",BLZ,Stann Creek,Dangriga,,-88.3156433,16.9971618
+BLZ-000132,S60103,Bella Vista Government Secondary School,Bella Vista Village,BLZ,Toledo,Toledo East,,-88.51737314,16.50363212
+BLZ-000133,V60101,ITVET- Toledo,"Crique Jute Village, Toledo",BLZ,Toledo,Toledo West,,-89.022008,16.281018
+BLZ-000134,P31405,Cristo Rey RC Primary School,Cristo Rey Village  Corozal Distict  Belize C.A.,BLZ,Corozal,Corozal North,,-88.49621509,18.34813114
+BLZ-000135,K60104,Bella Vista Preschool,"Bella Vista Village, Toledo District",BLZ,Toledo,Toledo East,,-88.5172672,16.50312097
+BLZ-000136,S10006,Itz’at STEAM Academy,Corner Simon Lamb and Freetown Road,BLZ,Belize,Freetown,,-88.1924081,17.5043772
+BLZ-000137,P21201,Cristo Rey RC Primary School-CYO,"Cristo Rey, Cayo",BLZ,Cayo,Cayo North,,-89.05491947,17.13238108
+BLZ-000138,S28001,Belmopan Baptist High School,"Banana Bank Area, Belmopan",BLZ,Cayo,Cayo South,,-88.78877827,17.2700661
+BLZ-000139,P61107,Jalacte RC Primary,Jalacte Village,BLZ,Toledo,Toledo West,,-89.202056,16.203971
+BLZ-000140,P10301,Crooked Tree Government Primary,Crooked Tree Village,BLZ,Belize,Belize Rural North,,-88.53620898,17.77630954
+BLZ-000141,K10101,Crooked Tree Preschool,Crooked Tree Village,BLZ,Belize,Belize Rural North,,-88.53620898,17.77630954
+BLZ-000142,K14014,James Garbutt SDA Preschool,21 Albert Street West,BLZ,Belize,Albert,,-88.1886479,17.4892637
+BLZ-000143,S20001,Belmopan Comprehensive School,George Price Blvd.,BLZ,Cayo,Belmopan,,-88.7689387,17.245532
+BLZ-000144,P14001,James Garbutt SDA Primary,"21 Albert Street West, Belize City",BLZ,Belize,Albert,,-88.1886479,17.4892637
+BLZ-000145,S23001,Belmopan Methodist High School,"Ring Road, Belmopan",BLZ,Cayo,Belmopan,,-88.7624841,17.2473976
+BLZ-000146,S51002,Delille Academy High,"2nd New Site, Dangriga Town, PO Box 262",BLZ,Stann Creek,Dangriga,,-88.23269916,16.9666388
+BLZ-000147,K22002,Benque Viejo Community Preschool,Corner Baron Bliss & Church St,BLZ,Cayo,Cayo West,,-89.1348697,17.0727808
+BLZ-000148,K20004,Judy Diego Government Preschool,"Hillview, Las Flores  Belmopan",BLZ,Cayo,Belmopan,,-88.7797847,17.2345727
+BLZ-000149,S60101,Julian Cho Technical High School,"14.5 miles PG/San Antonio Rd, PO Box 171",BLZ,Toledo,Toledo West,,-88.935773,16.228385
+BLZ-000150,P64001,Bethel SDA Primary,Indianville Area Extension  Punta Gorda Town  Toledo District,BLZ,Toledo,Toledo East,,-88.820455,16.10509
+BLZ-000151,K64101,Big Falls RC Preschool,Big Falls Village,BLZ,Toledo,Toledo West,,-88.883808,16.258146
+BLZ-000152,P61401,Big Falls RC Primary,Big Falls Village,BLZ,Toledo,Toledo West,,-88.8835809,16.25809102
+BLZ-000153,K20104,Billy White Government Preschool,"Spanish Lookout, Cayo District",BLZ,Cayo,Cayo North East,,-89.0514614,17.2093295
+BLZ-000154,P13002,Ebenezer Methodist Primary School,"117 Barrack Road, Belize City",BLZ,Belize,Fort George,,-88.18624379,17.50070994
+BLZ-000155,P24450,Billy White SDA Primary,"Billy White, Spanish Lookout Area",BLZ,Cayo,Cayo North East,,-89.04963713,17.21390186
+BLZ-000156,K44008,Eden Preschool,"Tate Street, Orange Walk Town",BLZ,Orange Walk,Orange Walk Central,,-88.561185,18.08663569
+BLZ-000157,P10401,Biscayne Government Primary,Phillip Goldson Highway  Biscayne Village  Belize District,BLZ,Belize,Belize Rural North,,-88.4524974,17.7133172
+BLZ-000158,S41002,Bishop Martin High School,1/2  mile San Lorenzo Road,BLZ,Orange Walk,Orange Walk North,,-88.5739059,18.0980072
+BLZ-000159,P21009,Bishop O.P. Martin RC Primary,"Bullet Tree Road, San Ignacio Town",BLZ,Cayo,Cayo North East,,-89.0835264,17.1592719
+BLZ-000160,S17101,King's College,31.5 miles Old Northern Highway.   P. O. Box 290 Belize City,BLZ,Belize,Belize Rural North,,-88.311766,17.791775
+BLZ-000161,P20004,Kuxlin Ha Government Primary,Masaan St.  Maya Mopan  Belmopan,BLZ,Cayo,Belmopan,,-88.75091571,17.24511902
+BLZ-000162,S24001,Eden SDA High School,"Eden Drive, Santa Elena, Cayo District",BLZ,Cayo,Cayo Central,,-89.0533178,17.1652635
+BLZ-000163,K64113,Blue Creek RC Preschool,Blue Creek Village,BLZ,Toledo,Toledo West,,-89.04572905,16.19909896
+BLZ-000164,K24008,Eden SDA Preschool,"Red Creek, Santa Elena",BLZ,Cayo,Cayo North East,,-89.06221,17.16314
+BLZ-000165,P24001,Eden SDA Primary,"Cor. Carmen & Salazar St., Santa Elena",BLZ,Cayo,Cayo Central,,-89.054542,17.163534
+BLZ-000166,P61201,Blue Creek RC Primary,Blue Creek Village,BLZ,Toledo,Toledo West,,-89.04589857,16.19895121
+BLZ-000167,K64102,Bright Star Preschool,"Forest Home Village, Toledo",BLZ,Toledo,Toledo East,,-88.82907736,16.13512765
+BLZ-000168,S10001,Edward P. Yorke High School,"Princess Margaret Drive, Belize City",BLZ,Belize,Caribbean Shores,,-88.1995511,17.508747
+BLZ-000169,P20104,El Progresso Community Primary School,7 Miles Mountain Pine Ridge Rd,BLZ,Cayo,Cayo Central,,-88.95346121,17.10021099
+BLZ-000170,P20201,Buena Vista Government Primary,"Buena Vista Village, Spanish Lookout",BLZ,Cayo,Cayo Central,,-88.9424006,17.2500862
+BLZ-000171,K24005,El Shaddai SDA Preschool,"1 Macal Street, Belmopan",BLZ,Cayo,Belmopan,,-88.76700135,17.25770303
+BLZ-000172,K20103,Kuxlin Ha Gov't Preschool,"Masaan St., Maya Mopan, Belmopan",BLZ,Cayo,Belmopan,,-88.75091571,17.24511902
+BLZ-000173,K34116,Buena Vista Preschool,Buena Vista Village,BLZ,Corozal,Corozal South West,,-88.52545564,18.23425545
+BLZ-000174,P20404,La Gracia Government Primary,"La Gracia Village, Yalbac Area,Cayo",BLZ,Cayo,Cayo Central,,-88.93366512,17.3538976
+BLZ-000175,P31402,Buena Vista RC Primary School,Buena Vista Village,BLZ,Corozal,Corozal South West,,-88.52545564,18.23425545
+BLZ-000176,K44003,La Inmaculada Preschool,3 Church St,BLZ,Orange Walk,Orange Walk Central,,-88.55877801,18.07972456
+BLZ-000177,P24002,El Shaddai SDA Primary,"1 Macal Street, Belmopan",BLZ,Cayo,Belmopan,,-88.76700135,17.25770303
+BLZ-000178,P41003,La Inmaculada RC Primary,"3 Church St., Orange Walk Town",BLZ,Orange Walk,Orange Walk Central,,-88.55877801,18.07972456
+BLZ-000179,K44106,Emmanuel Presbyterian Preschool,San Pablo Village,BLZ,Orange Walk,Orange Walk North,,-88.56608022,18.20804916
+BLZ-000180,K22101,Bullet Tree Community Preschool,"Bullet Tree Fall, Cayo District",BLZ,Cayo,Cayo North,,-89.11231031,17.17278048
+BLZ-000181,P21101,La Inmaculada RC Primary-CYO,Arenal Village,BLZ,Cayo,Cayo West,,-89.14862,17.02302
+BLZ-000182,P14002,Ephesus SDA Primary,"1 Wilson Street, Belize City",BLZ,Belize,Caribbean Shores,,-88.1899488,17.5028534
+BLZ-000183,P24401,Bullet Tree SDA Primary,Bullet Tree Falls Village,BLZ,Cayo,Cayo North,,-89.11225311,17.16714223
+BLZ-000184,K24113,La Inmaculada Roman Catholic Preschool,"Arenal Village, Cayo District",BLZ,Cayo,Cayo West,,-89.14862,17.02302
+BLZ-000185,P13401,Burrell Boom Methodist Primary,Main Avenue  Burrell Boom Village,BLZ,Belize,Belize Rural North,,-88.4034022,17.568794
+BLZ-000186,K54001,Epworth Methodist Preschool,"119 Cor Commerce St. & Dr. Alley, Dangriga",BLZ,,Dangriga,,-88.22204658,16.96934443
+BLZ-000187,P15001,Buttonwood Bay Nazarene Primary School,"4649 Coney Drive, Buttonwood Bay, Belize City",BLZ,Belize,Caribbean Shores,,-88.210357,17.5119826
+BLZ-000188,P53001,Epworth Methodist Primary,119 Corner Commerce & Dr. Alley,BLZ,,Dangriga,,-88.22204658,16.96934443
+BLZ-000189,K30101,Calcutta Government Preschool,Calcutta Village,BLZ,Corozal,Corozal North,,-88.43205515,18.36313497
+BLZ-000190,S30101,Escuela Secundaria Tecnica Mexico,San Roman Village  Corozal District  Belize.,BLZ,Corozal,Corozal South West,,-88.5097694,18.3038216
+BLZ-000191,P19401,Ladyville Evangelical Primary,10  1/4  Miles Phillip Goldson Highway,BLZ,Belize,Belize Rural North,,-88.3101871,17.5560136
+BLZ-000192,P30401,Calcutta Government Primary School,Calcutta Village,BLZ,Corozal,Corozal North,,-88.43205515,18.36313497
+BLZ-000193,P14451,Ladyville SDA Primary,"Corner Mamie & Perez St., Ladyville",BLZ,Belize,Belize Rural North,,-88.2956856,17.5512126
+BLZ-000194,P34401,Calcutta SDA Primary School,Mile 81 Phillip Goldson Highway,BLZ,Corozal,Corozal North,,-88.43864066,18.36272172
+BLZ-000195,K20101,Esperanza Community Preschool,"Esperanza Village,  Cayo District",BLZ,Cayo,Cayo Central,,-89.0458114,17.1778274
+BLZ-000196,S10102,Ladyville Technical High School,"9 3/4 Mls Philip Goldson Highway  Ladyville Village  Belize District, Belize C.A.",BLZ,Belize,Belize Rural North,,-88.3060509,17.5494496
+BLZ-000197,K34101,Caledonia RC Preschool,Caledonia Village,BLZ,Corozal,Corozal South West,,-88.4739961,18.2295071
+BLZ-000198,P60201,Laguna Government Primary,Laguna Village,BLZ,Toledo,Toledo West,,-88.938926,16.166292
+BLZ-000199,K12101,Eternal Light Preschool,Burrel Boom Village,BLZ,Belize,Belize Rural North,,-88.4034022,17.568794
+BLZ-000200,P31403,Caledonia RC Primary School,Caledonia Village    Corozal District,BLZ,Corozal,Corozal South West,,-88.4739961,18.2295071
+BLZ-000201,K24110,Leta Webb Preschool,"Valley of Peace, Cayo District",BLZ,Cayo,Cayo South,,-88.83483796,17.33256207
+BLZ-000202,K10002,Ethel Vargas Community Preschool,"18B Pinks Alley, Belize City",BLZ,Belize,Fort George,,-88.18534025,17.49632913
+BLZ-000203,P19002,Calvary Temple Primary School,"60 Regent Street West, Belize City",BLZ,Belize,Albert,,-88.18978581,17.49719353
+BLZ-000204,K34104,Libertad Methodist Preschool,"Libertad, Corozal Town",BLZ,Corozal,Corozal South West,,-88.45572296,18.30502436
+BLZ-000205,S14001,Canaan SDA High School,"1508 Buttonwood Bay, Coney Drive, P.O. Box 1690",BLZ,Belize,Caribbean Shores,,-88.2094435,17.5116047
+BLZ-000206,P33401,Libertad Methodist Primary School,Libertad Village,BLZ,Corozal,Corozal South West,,-88.45572296,18.30502436
+BLZ-000207,K42102,Carmelita Government Preschool,Carmelita Village,BLZ,Orange Walk,Orange Walk East,,-88.5432047,18.0136924
+BLZ-000208,P31406,Libertad RC Primary School,Libertad Village,BLZ,Corozal,Corozal South West,,-88.4548,18.30565
+BLZ-000209,P40401,Carmelita Government Primary School,"Carmelita Village, Orange Walk District",BLZ,Orange Walk,Orange Walk East,,-88.5432047,18.0136924
+BLZ-000210,K54002,Evershine Preschool,"15 Magoon St, Dangriga",BLZ,,Dangriga,,-88.2203293,16.96676109
+BLZ-000211,S10005,Excelsior High School,"Fabers Road, Belize City",BLZ,Belize,Queen Square,,-88.19932073,17.48807239
+BLZ-000212,P34402,Libertad SDA Primary School,Libertad Village,BLZ,Corozal,Corozal South West,,-88.4546444,18.30507008
+BLZ-000213,K64118,Fabian Cayetano RC Preschool,"Bladen Village, Toledo District",BLZ,Toledo,Toledo East,,-88.62242232,16.47377481
+BLZ-000214,P61407,Fabian Cayetano RC Primary,"Bladen Village, Toledo District",BLZ,Toledo,Toledo East,,-88.62242232,16.47377481
+BLZ-000215,K54114,Light of the Valley Baptist Preschool,"18 _ miles Valley Road, Valley Community",BLZ,Stann Creek,Stann Creek West,,-88.4501321,17.0026135
+BLZ-000216,P11201,Caye Caulker RC Primary,"Avenida Pueblo Nuevo, Caye Caulker",BLZ,,Belize Rural North,,-88.02636401,17.7387978
+BLZ-000217,P59401,Light of the Valley Baptist Primary,18.5 miles Stann Creek Valley Road,BLZ,Stann Creek,Stann Creek West,,-88.4501321,17.0026135
+BLZ-000218,P25002,Faith Nazarene Primary,"4 George Street, San Ignacio Town",BLZ,Cayo,Cayo North East,,-89.0718259,17.1593016
+BLZ-000219,K44009,Fel Briceno Academy Pre-primary,San Lorenzo  Orange Walk District,BLZ,Orange Walk,Orange Walk North,,-88.57711709,18.09972918
+BLZ-000220,K14006,Central Christian Preschool,"116 Freetown Road, Belize City",BLZ,Belize,Pickstock,,-88.19453372,17.50385702
+BLZ-000221,P41005,Fel Briceno Academy Primary,San Lorenzo  Orange Walk District,BLZ,Orange Walk,Orange Walk North,,-88.57711709,18.09972918
+BLZ-000222,P16001,Central Christian Primary,"166 Freetown Road, Belize City",BLZ,Belize,Pickstock,,-88.19453372,17.50385702
+BLZ-000223,P40104,Fire Burn Government Primary,Fireburn Village,BLZ,Orange Walk,Orange Walk East,,-88.388234,17.971149
+BLZ-000224,P31499,Fire Burn RC Primary School,Fire Burn Community,BLZ,Corozal,Corozal North,,-88.430817,18.387728
+BLZ-000225,P30402,Chan Chen Government Primary School,Chan Chen Village  Corozal District  Belize C.A.,BLZ,Corozal,Corozal North,,-88.42791132,18.44027843
+BLZ-000226,K30105,Chan Chen Preschool,Chan Chen Village,BLZ,Corozal,Corozal North,,-88.42791132,18.44027843
+BLZ-000227,P63401,Forest Home Methodist Primary,Forest Home Village,BLZ,Toledo,Toledo East,,-88.82907736,16.13512765
+BLZ-000228,P40402,Chan Pine Ridge Government Primary,Chan Pine Ridge Village,BLZ,Orange Walk,Orange Walk East,,-88.58306788,18.03451029
+BLZ-000229,P61403,Little Flower RC Primary,Forest Home Village,BLZ,Toledo,Toledo East,,-88.822948,16.135152
+BLZ-000230,P20301,Frank's Eddy Government Primary,37 1,BLZ,Cayo,Cayo South,,-88.63460039,17.25571545
+BLZ-000231,K40102,Chan Pine Ridge Preschool,Chan Pine Ridge Village,BLZ,Orange Walk,Orange Walk East,,-88.58306788,18.03451029
+BLZ-000232,K64112,Little Haven Preschool,Indian Creek Village,BLZ,Toledo,Toledo East,,-88.832219,16.312807
+BLZ-000233,P49001,Chapel Primary School,"Tate Street, Orange Walk Town",BLZ,Orange Walk,Orange Walk Central,,-88.561185,18.08663569
+BLZ-000234,K44007,Little Haven SDA Preschool,Palmar Boundary Road,BLZ,Orange Walk,Orange Walk East,,-88.57057363,18.06702095
+BLZ-000235,P52001,Christ the King Anglican Primary,"2 Rest House Alley, Dangriga Town",BLZ,,Dangriga,,-88.2205947,16.971345
+BLZ-000236,K34120,Little Paradise Preschool,"Chunox Village, Corozal",BLZ,Corozal,Corozal South East,,-88.35499069,18.29332357
+BLZ-000237,K10105,Gales Point Child Stimulation Centre,Gales Point Manatee Village,BLZ,Belize,Belize Rural North,,-88.33062977,17.17571594
+BLZ-000238,K34119,Christian Assemblies Of God Preschool,Santa Rita Layout,BLZ,Corozal,Corozal North,,-88.39524163,18.40318903
+BLZ-000239,P10101,Gales Point Government Primary,"Main Street, Gales Point Village",BLZ,Belize,Belize Rural North,,-88.33069856,17.1759659
+BLZ-000240,K34021,Christiline Gill SDA Preschool,Pot Saul Area,BLZ,Corozal,Corozal Bay,,-88.3928434,18.3961924
+BLZ-000241,K20003,Garden City Preschool,"Hummingbird Avenue, Belmopan",BLZ,Cayo,Belmopan,,-88.76885633,17.24135329
+BLZ-000242,P34001,Christiline Gill SDA Primary School,Port Saul Area,BLZ,Corozal,Corozal Bay,,-88.3928434,18.3961924
+BLZ-000243,P60401,Living Word Primary,"Boom Creek Village, PO Box 90, PG",BLZ,Toledo,Toledo East,,-88.910636,16.076112
+BLZ-000244,K34102,Chunox RC Preschool,Chunox Village,BLZ,Corozal,Corozal South East,,-88.3585596,18.293324
+BLZ-000245,P31102,Chunox RC Primary School,"Chunox Village,  Corozal District,  Belize.",BLZ,Corozal,Corozal South East,,-88.3585596,18.293324
+BLZ-000246,K12001,Lloyd Coffin Government Preschool,Mahogany St. Lake I Comm. Centre,BLZ,Belize,Lake Independence,,-88.20120878,17.50104363
+BLZ-000247,S30102,Chunox Saint Viator Vocational High School,1.5 miles Chunox-Sarteneja Road  P.O. Box 330  Corozal Town,BLZ,Corozal,Corozal South East,,-88.3299479,18.3046976
+BLZ-000248,P20102,Los Tambos Government Primary,Los Tambos Village,BLZ,Cayo,Cayo North East,,-89.0089457,17.3273833
+BLZ-000249,P34101,Chunox SDA Primary School,Chunox Village,BLZ,Corozal,Corozal South East,,-88.3549183,18.2931429
+BLZ-000250,K40001,Louisiana Government Preschool,Corner Flamboyant & Zericote Street,BLZ,Orange Walk,Orange Walk East,,-88.56283762,18.0729626
+BLZ-000251,P20003,Garden City Primary,"Hummingbird Avenue, Mountain View Area",BLZ,Cayo,Belmopan,,-88.76885633,17.24135329
+BLZ-000252,S50301,Georgetown Technical High School,"29 Miles Southern Highway, Stann Creek District",BLZ,Stann Creek,Stann Creek West,,-88.49238052,16.64068446
+BLZ-000253,K60101,Golden Star Government Preschool,Golden Stream Village,BLZ,Toledo,Toledo West,,-88.79922442,16.35095604
+BLZ-000254,P40001,Louisiana Government Primary,Corner Zericote & Flamboyant Street,BLZ,Orange Walk,Orange Walk East,,-88.56283762,18.0729626
+BLZ-000255,K34115,Louisville RC Preschool,Louisville Village,BLZ,Corozal,Corozal South West,,-88.50963896,18.31995322
+BLZ-000256,P31407,Louisville RC Primary School,Louisville Village,BLZ,Corozal,Corozal South West,,-88.50963896,18.31995322
+BLZ-000257,P60104,Golden Stream Government Primary,Golden Stream Village,BLZ,Toledo,Toledo West,,-88.79922442,16.35095604
+BLZ-000258,P10201,Lucky Strike Government Primary,30.5 miles Old Northern Highway,BLZ,Belize,Belize Rural North,,-88.32019553,17.78191457
+BLZ-000259,P60205,Mabil Ha Government Primary,Mabilha Village,BLZ,Toledo,Toledo West,,-89.088083,16.101889
+BLZ-000260,P19003,Grace Primary,"14 Amara Avenue, Belize City",BLZ,Belize,Mesopotamia,,-88.19180459,17.49431009
+BLZ-000261,P49402,Compassion UECB Primary School,Yo Creek Village,BLZ,Orange Walk,Orange Walk South,,-88.64028513,18.09183031
+BLZ-000262,K34117,Concepcion Presbyterian Preschool,Concepcion Village,BLZ,Corozal,Corozal South West,,-88.46676247,18.32252938
+BLZ-000263,P39402,Concepcion Presbyterian Primary School,Concepcion Village,BLZ,Corozal,Corozal South West,,-88.46676247,18.32252938
+BLZ-000264,P61109,Machakilha RC Primary,Machakilha Village,BLZ,Toledo,Toledo East,,-89.190573,15.941495
+BLZ-000265,P60106,Graham Creek Government Primary School,Graham Creek Village,BLZ,Toledo,Toledo East,,-89.12791,15.93168
+BLZ-000266,K34114,Concepcion RC Preschool,Conception Village,BLZ,Corozal,Corozal South West,,-88.46698687,18.32397393
+BLZ-000267,P11402,Guadalupe RC Primary,"Sandhill Village, 17.5 miles Phillip Goldson Highway",BLZ,Belize,Belize Rural North,,-88.3689477,17.6283615
+BLZ-000268,P31404,Concepcion RC Primary School,Concepcion Village,BLZ,Corozal,Corozal South West,,-88.46698687,18.32397393
+BLZ-000269,K44108,Guardian Angel Preschool,Guinea Grass Village,BLZ,Orange Walk,Orange Walk South,,-88.59735397,17.96684204
+BLZ-000270,P63402,Mafredi Methodist Primary,Mafredi Village,BLZ,Toledo,Toledo West,,-88.99248725,16.24439481
+BLZ-000271,K44107,Guinea Grass Pentecostal Preschool,Guinea Grass Village,BLZ,Orange Walk,Orange Walk South,,-88.59758867,17.96526293
+BLZ-000272,P49403,Guinea Grass Pentecostal Primary,Guinea Grass Village  Orange Walk District,BLZ,Orange Walk,Orange Walk South,,-88.59758867,17.96526293
+BLZ-000273,P41402,Guinea Grass Roman Catholic Primary School,Guinea Grass Village,BLZ,Orange Walk,Orange Walk South,,-88.59735397,17.96684204
+BLZ-000274,K53001,Gulisi Community Preschool,"Monument Area, Dangriga Town",BLZ,Stann Creek,Dangriga,,-88.24126268,16.96199367
+BLZ-000275,P50001,Gulisi Community Primary,"Monument Site, Dangriga Town",BLZ,Stann Creek,Dangriga,,-88.24126268,16.96199367
+BLZ-000276,S10002,Gwen Lizarraga High School,18 Antelope Street  Belize City,BLZ,Belize,Collet,,-88.2001554,17.4944598
+BLZ-000277,K64001,Happy Home Preschool,"Front Street, Punta Gorda Town",BLZ,,Toledo East,,-88.801299,16.101592
+BLZ-000278,K12102,Harmony Preschool,Bermundian Landing,BLZ,Belize,Belize Rural North,,-88.5390747,17.556261
+BLZ-000279,K10102,Hattieville Government Preschool,"115 Sylvester Blvd., Hattieville Village",BLZ,Belize,Belize Rural North,,-88.3934689,17.4485986
+BLZ-000280,P10402,Hattieville Government Primary,"115 Sylvestre Blvd, Hattieville Village",BLZ,Belize,Belize Rural North,,-88.3934689,17.4485986
+BLZ-000281,P14450,Hattieville SDA Primary,Hattieville Village,BLZ,Belize,Belize Rural North,,-88.392619,17.462312
+BLZ-000282,K34001,Mary Hill RC Preschool,"San Andres Road, Corozal Town",BLZ,Corozal,Corozal Bay,,-88.4021072,18.3894977
+BLZ-000283,P31003,Mary Hill RC Primary School,"San Andres Road,  Town",BLZ,Corozal,Corozal Bay,,-88.4021072,18.3894977
+BLZ-000284,S10003,Maud Williams High School,"Corner Dolphin and Racoon Sts., P.O. Box 1990, Belize City",BLZ,Belize,Mesopotamia,,-88.19454973,17.49192952
+BLZ-000285,P50301,Maya Mopan Government Primary,Maya Mopan Village  Stann Creek District,BLZ,Stann Creek,Stann Creek West,,-88.5208443,16.6609704
+BLZ-000286,K50102,Maya Mopan Preschool,Maya Mopan Village  Stann creek District,BLZ,Stann Creek,Stann Creek West,,-88.5208443,16.6609704
+BLZ-000287,P60203,Medina Bank Government Primary,"36 miles Southern Highway, Medina Bank",BLZ,Toledo,Toledo West,,-88.74388,16.442099
+BLZ-000288,K60102,Midway Government Preschool,"Midway Village, Toledo",BLZ,Toledo,Toledo East,,-88.955322,16.0617295
+BLZ-000289,P60103,Midway Government Primary,Midway Village,BLZ,Toledo,Toledo East,,-88.955322,16.0617295
+BLZ-000290,K20106,Monrad S. Metzgen Preschool,"El Progresso Village, Cayo District",BLZ,Cayo,Cayo Central,,-88.9532646,17.1003936
+BLZ-000291,S20002,Mopan Technical High School,"Said Musa St., New Area, Benque Viejo del Carmen",BLZ,Cayo,Cayo West,,-89.1287156,17.0760484
+BLZ-000292,P20103,More Tomorrow Government Primary,More Tomorrow Village    Cayo District,BLZ,Cayo,Cayo South,,-88.69517,17.34869
+BLZ-000293,K24006,Mount Carmel Preschool,Benque Viejo,BLZ,Cayo,Cayo West,,-89.13788282,17.0739982
+BLZ-000294,P21002,Mount Carmel Primary,"10 Diaz St., Benque Viejo del Carmen",BLZ,Cayo,Cayo West,,-89.13788282,17.0739982
+BLZ-000295,S41001,Muffles College,"Orange Walk Town, PO Box 64",BLZ,Orange Walk,Orange Walk Central,,-88.5619272,18.0860243
+BLZ-000296,P20105,Hidden Paradise Government Primary,"Duck Run 3, Spanish Lookout Area",BLZ,Cayo,Cayo North East,,-89.03432585,17.26126489
+BLZ-000297,P24003,Hills of Promise Primary,Corner George Price Blvd & Said Musa Street,BLZ,Cayo,Cayo West,,-89.133134,17.07513652
+BLZ-000298,K54101,Holy Angels Preschool,"12 milesSC Valley Rd, Pomona Village",BLZ,Stann Creek,Stann Creek West,,-88.37536845,16.99309444
+BLZ-000299,P51401,Holy Angels RC Primary,"12 miles SC Valley Road, Pomona",BLZ,Stann Creek,Stann Creek West,,-88.37536845,16.99309444
+BLZ-000300,K14013,Holy Cross Anglican Preschool,"San Mateo, San Pedro",BLZ,Belize,Belize Rural North,,-87.95800778,17.93204994
+BLZ-000301,P12009,Holy Cross Anglican Primary School,"San Mateo, Ambergris Caye",BLZ,Belize,Belize Rural North,,-87.95800778,17.93204994
+BLZ-000302,P21102,Holy Cross RC Primary,Calla Creek Village,BLZ,Cayo,Cayo West,,-89.13376266,17.12512502
+BLZ-000303,K54109,Holy Family Preschool,Hopkins Village,BLZ,Stann Creek,Stann Creek West,,-88.28384546,16.858705
+BLZ-000304,P51303,Holy Family RC Primary,"Hopkins Village, SC District",BLZ,Stann Creek,Stann Creek West,,-88.28384546,16.858705
+BLZ-000305,K54005,Holy Ghost Preschool,"Commerce Bight Road, Dangriga Town",BLZ,Stann Creek,Dangriga,,-88.22036542,16.95834961
+BLZ-000306,P51002,Holy Ghost RC Primary,"Rail Way Pier Road, Dangriga",BLZ,Stann Creek,Dangriga,,-88.22036542,16.95834961
+BLZ-000307,P11001,Holy Redeemer RC Primary,"144 North Front Street    P.O. Box 616    Belize City, Belize",BLZ,Belize,Albert,,-88.18728754,17.49672389
+BLZ-000308,K50401,Hope Creek Methodist Preschool,Hope Creek Village,BLZ,Stann Creek,Dangriga,,-88.3134707,17.0027292
+BLZ-000309,P53401,Hope Creek Methodist Primary,Hope Creek Methodist School    Hope Creek Village  7 Miles Stann Creek Valley Road  Stann Creek District  Belize  Tel – 542-2010,BLZ,Stann Creek,Dangriga,,-88.3134707,17.0027292
+BLZ-000310,P60204,Santa Ana Government School,Santa Anna Village,BLZ,Toledo,Toledo West,,-88.953262,16.109247
+BLZ-000311,K34107,Santa Clara Baptist Preschool,"PO Box 264, Santa Clara Village",BLZ,Corozal,Corozal South West,,-88.5093174,18.291194
+BLZ-000312,P34410,Santa Clara SDA Primary School,Santa Clara Village,BLZ,Corozal,Corozal South West,,-88.50938,18.29511
+BLZ-000313,P31412,Santa Clara/San Roman RC Primary,Santa Clara/San Roman Villages,BLZ,Corozal,Corozal South West,,-88.50876282,18.29669215
+BLZ-000314,K20006,Santa Cruz Government Preschool,"Santa Cruz, Santa Elena",BLZ,Cayo,Cayo Central,,-89.05149304,17.15926993
+BLZ-000315,K50103,Santa Cruz Government Preschool,Santa Cruz Village  Stann Creek District,BLZ,Stann Creek,Stann Creek West,,-88.42847,16.69997
+BLZ-000316,P20006,Santa Cruz Government Primary,Santa Cruz. Santa Elena,BLZ,Cayo,Cayo Central,,-89.05149304,17.15926993
+BLZ-000317,P40102,Santa Cruz Government Primary,Santa Cruz Village,BLZ,Orange Walk,Orange Walk South,,-88.7086599,18.1138973
+BLZ-000318,P50105,Santa Cruz Government Primary School,Santa Cruz Village  Stann Creek,BLZ,Stann Creek,Stann Creek West,,-88.42847,16.69997
+BLZ-000319,P61115,Santa Cruz RC Primary,Santa Cruz Village,BLZ,Toledo,Toledo West,,-89.077084,16.233619
+BLZ-000320,K24003,Santa Elena Baptist Preschool,Corner Carillo Puerto & George Price Ave,BLZ,Cayo,Cayo North East,,-89.06293,17.16207
+BLZ-000321,P29003,Santa Elena Baptist Primary,"Bradley Bank, Santa Elena",BLZ,Cayo,Cayo North East,,-89.06293,17.16207
+BLZ-000322,P61116,Santa Elena RC Primary,Santa Elena Village,BLZ,Toledo,Toledo West,,-89.108217,16.229817
+BLZ-000323,P21007,Santa Elena RC Primary-CYO,"Perez Street, Santa Elena",BLZ,Cayo,Cayo Central,,-89.05920476,17.16585938
+BLZ-000324,P21301,Santa Familia RC Primary,Santa Familia Village,BLZ,Cayo,Cayo North East,,-89.07090356,17.18958469
+BLZ-000325,K40103,Santa Martha Government Preschool,Santa Martha Village,BLZ,Orange Walk,Orange Walk East,,-88.50202443,18.01564334
+BLZ-000326,P40103,Santa Martha Government Primary,Santa Martha Village,BLZ,Orange Walk,Orange Walk East,,-88.50202443,18.01564334
+BLZ-000327,P36401,Santa Rita Christian Primary,Santa Rita Layout,BLZ,Corozal,Corozal North,,-88.39524163,18.40318903
+BLZ-000328,K64114,Santa Teresa RC Preschool,Santa Teresa,BLZ,Toledo,Toledo West,,-89.053362,16.13597
+BLZ-000329,P61117,Santa Teresa RC Primary,Santa Teresa Village,BLZ,Toledo,Toledo West,,-89.053362,16.13597
+BLZ-000330,K20002,Santiago Juan Community Preschool,"17 Cabbage Bark Street, Santiago Juan Layout",BLZ,Cayo,Cayo North,,-89.0843125,17.1546875
+BLZ-000331,K32102,Sarteneja Community Preschool,Sarteneja Village,BLZ,Corozal,Corozal South East,,-88.1479095,18.3542153
+BLZ-000332,K34122,Sarteneja La Inmaculada R.C. Preschool,"Primitivo Aragon Avenue,  Sarteneja Village,  Corozal District,  Belize",BLZ,Corozal,Corozal South East,,-88.138155,18.3540657
+BLZ-000333,P31104,Sarteneja La Inmaculada R.C. Primary School,"Primitivo Aragon Avenue,  Sarteneja Village,  Corozal District,  Belize",BLZ,Corozal,Corozal South East,,-88.138155,18.3540657
+BLZ-000334,K34105,Sarteneja Nazarene Preschool,Sarteneja Village,BLZ,Corozal,Corozal South East,,-88.1418114,18.3552006
+BLZ-000335,P35101,Sarteneja Nazarene Primary,Sarteneja Village  Corozal District,BLZ,Corozal,Corozal South East,,-88.1418114,18.3552006
+BLZ-000336,P54101,Shiloh SDA Primary School,"Hercules Ave., Independence Village",BLZ,Stann Creek,Stann Creek West,,-88.41591046,16.53742191
+BLZ-000337,K54107,Silk Grass Methodist Preschool,"Silk Grass Village, Stann Creek",BLZ,Stann Creek,Stann Creek West,,-88.33807126,16.88601661
+BLZ-000338,P53402,Silk Grass Methodist Primary School,Silk Grass Village,BLZ,Stann Creek,Stann Creek West,,-88.33807126,16.88601661
+BLZ-000339,K64105,Silver Creek R.C. Preschool,Silver Creek Village,BLZ,Toledo,Toledo West,,-88.890458,16.279107
+BLZ-000340,P61205,Silver Creek RC Primary School,Silver Creek Village,BLZ,Toledo,Toledo West,,-88.890458,16.279107
+BLZ-000341,K54105,Sittee River Methodist Preschool,Sittee River Village,BLZ,Stann Creek,Stann Creek West,,-88.3207051,16.821919
+BLZ-000342,P53201,Sittee River Methodist Primary,Sittee River Village,BLZ,Stann Creek,Stann Creek West,,-88.3207051,16.821919
+BLZ-000343,K14007,Small World Preschool,"2 G St. Kings Park, Belize City",BLZ,Belize,Freetown,,-88.19175416,17.5088046
+BLZ-000344,P56001,Solid Rock Christian Academy,"Rivas Estate, Dangriga",BLZ,Stann Creek,Dangriga,,-88.22855755,16.95860631
+BLZ-000345,K54003,Solid Rock Christian Academy Preschool,"Rivas Estate, PO Box 40, Dangriga",BLZ,Stann Creek,Dangriga,,-88.22855755,16.95860631
+BLZ-000346,P44001,Solomon's SDA Primary,Palmar Boundary Road,BLZ,Orange Walk,Orange Walk East,,-88.57057363,18.06702095
+BLZ-000347,S59001,Stann Creek Ecumenical College,"P.O. Box 84, Dangriga",BLZ,Stann Creek,Dangriga,,-88.22789998,16.96301332
+BLZ-000348,K12105,Star Brite Preschool,"Poinsettia St., Mitchelle Estate, Ladyville",BLZ,Belize,Belize Rural North,,-88.29313452,17.54829504
+BLZ-000349,P10001,Stella Maris Special Education and Life Skills Learning Center,"Princess Margaret Drive, Belize City",BLZ,Belize,Freetown,,-88.19594997,17.50525551
+BLZ-000350,K10001,Stepping Stones Preschool,# 36 Corner Albert Hoy & Guava St.  Belama Phase 2,BLZ,Belize,Freetown,,-88.21997532,17.51065882
+BLZ-000351,P61118,Sunday Wood RC Primary School,Sunday Wood Village,BLZ,Toledo,Toledo East,,-89.033344,16.038796
+BLZ-000352,K64115,Sunday Wood Sunrise Preschool,Sunday Wood Village,BLZ,Toledo,Toledo East,,-89.033344,16.038796
+BLZ-000353,K64108,Sunshine Preschool,"San marcos, Toledo",BLZ,Toledo,Toledo West,,-88.903861,16.215832
+BLZ-000354,K30102,Sunshine Preschool- Paraiso GOB,Paraiso Village,BLZ,Corozal,Corozal North,,-88.39463336,18.40985129
+BLZ-000355,P19006,The Salvation Army Primary School,"12 Cemetery Road, Belize City",BLZ,Belize,Mesopotamia,,-88.19011456,17.4948832
+BLZ-000356,K64004,Tiny Tots SDA Preschool,Indianville Extention  Punta Gorda Town  Toledo District,BLZ,Toledo,Toledo East,,-88.820455,16.10509
+BLZ-000357,S69001,Toledo Community College,"New City Area, Punta Gorda Town, PO Box 41",BLZ,,Toledo East,,-88.80636306,16.10511058
+BLZ-000358,P40405,Trial Farm Government Primary School,Orange Walk,BLZ,Orange Walk,Orange Walk North,,-88.56322477,18.09814363
+BLZ-000359,K40101,Trial Farm Preschool,"San Isidro Street, Trial Farm Village",BLZ,Orange Walk,Orange Walk North,,-88.56322477,18.09814363
+BLZ-000360,P40404,Trinidad Government Primary,Trinidad Village,BLZ,Orange Walk,Orange Walk North,,-88.56340216,18.09826674
+BLZ-000361,P13005,Trinity Methodist Primary School,"5 G Street, King's Park, Belize City",BLZ,Belize,Freetown,,-88.19171817,17.50994269
+BLZ-000362,K60103,Trio Government Preschool,"Trio Village, Toledo District",BLZ,Toledo,Toledo West,,-88.636284,16.5156931
+BLZ-000363,P60107,Trio Government Primary School,"Trio Village, Toledo District",BLZ,Toledo,Toledo West,,-88.636284,16.5156931
+BLZ-000364,S67102,Tumul K’in Center of Learning,"Blue Creek Village, Toledo District",BLZ,Toledo,Toledo West,,-89.04781453,16.19433469
+BLZ-000365,K61107,Twinkle Star Preschool,Jalacte Village,BLZ,Toledo,Toledo West,,-89.202056,16.203971
+BLZ-000366,K52102,United Community Preschool,26 1/2 miles Southern Highway,BLZ,Stann Creek,Stann Creek West,,-88.4706642,16.6574202
+BLZ-000367,P50104,United Community Primary,Mile 26 1/2 Southern Highway  Santa Rosa/ San Roman Village,BLZ,Stann Creek,Stann Creek West,,-88.4706642,16.6574202
+BLZ-000368,P20002,United Evergreen Primary,Ambergris Caye  Belmopan,BLZ,Cayo,Belmopan,,-88.76668934,17.25241865
+BLZ-000369,P19007,Unity Presbyterian Primary,109 A Antelope Extension,BLZ,Belize,Collet,,-88.20656984,17.49697505
+BLZ-000370,K14011,Unity Star Child Preschool,109 A Antelope Extension,BLZ,Belize,Collet,,-88.20656984,17.49697505
+BLZ-000371,P26101,Valley of Peace Christian Primary School,"PO Box 501, Belmopan/Valley of Peace",BLZ,Cayo,Cayo South,,-88.83483796,17.33256207
+BLZ-000372,K24104,Victorious Nazarene Preschool,San Jose Succotz Village,BLZ,Cayo,Cayo West,,-89.1242145,17.0786647
+BLZ-000373,P25402,Victorious Nazarene Primary School,SanJose Succotz,BLZ,Cayo,Cayo West,,-89.1242145,17.0786647
+BLZ-000374,S13001,Wesley College,"34 Yarborough Road, Belize City",BLZ,Belize,Albert,,-88.19032725,17.48728613
+BLZ-000375,P13006,Wesley Lower Primary School,"38 Albert Street, Belize City",BLZ,Belize,Albert,,-88.18768355,17.49112395
+BLZ-000376,K14009,Wesley Preschool,1 Chapel Lane,BLZ,Belize,Albert,,-88.18768355,17.49112395
+BLZ-000377,P13008,Wesley Upper Primary School,"44 Dolphin Street, Belize City",BLZ,Belize,Mesopotamia,,-88.1948254,17.4902671
+BLZ-000378,K34108,Xaibe Preschool,Xaibe Village,BLZ,Corozal,Corozal North,,-88.43043873,18.38767595
+BLZ-000379,P31413,Xaibe RC Primary School,Xaibe Village,BLZ,Corozal,Corozal North,,-88.43043873,18.38767595
+BLZ-000380,K42103,Yo Creek Community Preschool,Yo Creek Village,BLZ,Orange Walk,Orange Walk South,,-88.6379745,18.0907966
+BLZ-000381,P41409,Yo Creek Sacred Heart RC Primary School,Yo Creek Village,BLZ,Orange Walk,Orange Walk South,,-88.6367919,18.0908838
+BLZ-000382,P13202,Zion Park Methodist Primary School,"Santana Village, Belize District",BLZ,Belize,Belize Rural North,,-88.309915,17.814806
+BLZ-000383,P54001,Zion SDA Primary School,"90 St. Vincent Street, Dangriga Town",BLZ,Stann Creek,Dangriga,,-88.22070717,16.96474198
+BLZ-000384,P61103,Saint John the Baptist RC Primary School,Conejo Creek Village,BLZ,Toledo,Toledo East,,-89.001404,16.047898
+BLZ-000385,P11008,Saint John Vianney Primay School,"289 Fabers Road, Belize City",BLZ,Belize,Queen Square,,-88.19853386,17.48762349
+BLZ-000386,P12006,Saint John's Anglican Primary School,1 Amara Avenue,BLZ,Belize,Queen Square,,-88.19240187,17.48887096
+BLZ-000387,S11003,Saint John's College,Princess Margaret Drive,BLZ,Belize,Caribbean Shores,,-88.199187,17.512349
+BLZ-000388,K52101,Saint John's Memorial Anglican Preschool,Placencia Village,BLZ,,Stann Creek West,,-88.3702958,16.5212091
+BLZ-000389,P52201,Saint John's Memorial Anglican Primary School,Placencia Village,BLZ,,Stann Creek West,,-88.3702958,16.5212091
+BLZ-000390,K64002,Saint Joseph Anglican Preschool,30 George Price Street  Punta Gorda Town  Toledo District,BLZ,,Toledo East,,-88.80295859,16.10025315
+BLZ-000391,K24103,Saint Joseph Preschool-Succotz,San Jose Succotz Village,BLZ,Cayo,Cayo West,,-89.1270446,17.0840244
+BLZ-000392,P21403,Saint Joseph RC - Cotton Tree,"Cotton Tree Village, Cayo District",BLZ,Cayo,Cayo South,,-88.71113398,17.27624414
+BLZ-000393,P11011,Saint Joseph RC Primary,3 St. Joseph & Simon Lamb Streets,BLZ,Belize,Freetown,,-88.19197912,17.50412008
+BLZ-000394,P61102,Saint Joseph RC Primary School,Barranco Village,BLZ,,Toledo East,,-88.918495,15.999285
+BLZ-000395,P21103,Saint Joseph RC-Duck Run 2,"Duck Run 2, Spanish Lookout",BLZ,Cayo,Cayo North East,,-89.02372167,17.24210234
+BLZ-000396,K54116,Saint Jude RC Preschool,Maya Center,BLZ,Stann Creek,Stann Creek West,,-88.3814957,16.7983079
+BLZ-000397,P51403,Saint Jude RC Primary School,"Maya Center Village  15 Miles, southern Highway  Stann Creek",BLZ,Stann Creek,Stann Creek West,,-88.3814957,16.7983079
+BLZ-000398,P21402,Saint Jude RC Primary School-CYO,Camalote Village,BLZ,Cayo,Cayo South,,-88.8248689,17.243563
+BLZ-000399,P13004,Saint Luke Methodist Primary,"Mahogany Street, Belize City",BLZ,Belize,Lake Independence,,-88.20008709,17.50100318
+BLZ-000400,K24111,Saint Margaret Mary RC Preschool,"St. Margaret Village, Miles 32 Hummingbird Highway",BLZ,Cayo,Cayo South,,-88.61246113,17.08976851
+BLZ-000401,P21406,Saint Margaret Mary RC Primary School,"St. Margaret Village, Mile 32 Hummingbird Highway, Cayo Dist",BLZ,Cayo,Cayo South,,-88.61246113,17.08976851
+BLZ-000402,P61110,Saint Mark's RC Primary School,Otoxha Village,BLZ,Toledo,Toledo West,,-89.18041,16.02241
+BLZ-000403,P11012,Saint Martin de Porres Primary School,"Partridge Street, Belize City",BLZ,Belize,Lake Independence,,-88.20095059,17.49932701
+BLZ-000404,P21409,Saint Martin De Porres RC Primary School-CYO,Blackman Eddy Village,BLZ,Cayo,Cayo Central,,-88.91261328,17.22512812
+BLZ-000405,P20402,Saint Martin's Government Primary School,"Cemetery Road, Salvapan  City of Belmopan",BLZ,Cayo,Belmopan,,-88.75874,17.251379
+BLZ-000406,K14001,Saint Martins Preschool,Corner Oleander St & Rose Lane,BLZ,Belize,Lake Independence,,-88.20147601,17.49984996
+BLZ-000407,P12008,Saint Mary's Anglican Primary School,"1 Angel Lane, Belize City",BLZ,Belize,Fort George,,-88.18431715,17.49564532
+BLZ-000408,K54117,Saint Matthew's Anglican Preschool,Pomona  Stann Creek District,BLZ,Stann Creek,Stann Creek West,,-88.36676786,16.99555047
+BLZ-000409,P52402,Saint Matthew's Anglican Primary School,Pomona Village,BLZ,Stann Creek,Stann Creek West,,-88.36676786,16.99555047
+BLZ-000410,K20102,Saint Matthew's Government Preschool,St. Matthews Village,BLZ,Cayo,Cayo South,,-88.64609264,17.27657462
+BLZ-000411,P20403,Saint Matthew's Government Primary School,38 miles George Price Highway,BLZ,Cayo,Cayo South,,-88.64609264,17.27657462
+BLZ-000412,K24107,Saint Michael RC Preschool,Monja Blanca Street  Belmopan,BLZ,Cayo,Belmopan,,-88.77920194,17.2346677
+BLZ-000413,K44103,Saint Michael RC Preschool,San Felipe Village,BLZ,Orange Walk,Orange Walk South,,-88.77296322,17.8729365
+BLZ-000414,P21404,Saint Michael RC Primary,"Monja Blanca St.,   Las Flores  Belmopan",BLZ,Cayo,Belmopan,,-88.77944361,17.23463967
+BLZ-000415,P41203,Saint Michael RC Primary,San Felipe Village,BLZ,Orange Walk,Orange Walk South,,-88.77296322,17.8729365
+BLZ-000416,K24112,Saint Oscar Romero Preschool,"Valley of Peace Village  PO Box #190, Belmopan",BLZ,Cayo,Cayo South,,-88.8348297,17.3363676
+BLZ-000417,P21106,Saint Oscar Romero RC Primary School,Valley of Peace Village,BLZ,Cayo,Cayo South,,-88.8348297,17.3363676
+BLZ-000418,P32001,Saint Paul's Anglican Primary School,Corner 4th Avenue & 5th St. South,BLZ,Corozal,Corozal Bay,,-88.38893,18.38881
+BLZ-000419,P61408,Saint Paul's RC Primary School,"San Pablo Village, Toledo District",BLZ,Toledo,Toledo East,,-88.57989,16.61176
+BLZ-000420,K64003,Saint Peter Claver Preschool,"George Price Street,Punta Gorda Town",BLZ,,Toledo East,,-88.80604317,16.09776836
+BLZ-000421,P61002,Saint Peter Claver Primary School,"60 Main Street, Punta Gorda Town",BLZ,,Toledo East,,-88.805684,16.097638
+BLZ-000422,K42001,Saint Peter's Anglican Preschool,"9 St. Peter's Street  Orange Walk Town  Orange Walk District, Belize",BLZ,Orange Walk,Orange Walk Central,,-88.561989,18.082147
+BLZ-000423,P42001,Saint Peter's Anglican Primary School,"9 St. Peter's Street, OW Town",BLZ,Orange Walk,Orange Walk Central,,-88.561989,18.082147
+BLZ-000424,P61402,Saint Phillip RC Primary School,Cattle Landing Village,BLZ,Toledo,Toledo East,,-88.7958,16.12135
+BLZ-000425,K64120,Saint Stephen's Anglican Preschool,Monkey River Village,BLZ,,Toledo East,,-88.48554268,16.36225527
+BLZ-000426,P62102,Saint Stephen's Anglican Primary School,Monkey River Village,BLZ,,Toledo East,,-88.48554268,16.36225527
+BLZ-000427,P11404,Saint Therese RC Primary School,Burrell Boom Village,BLZ,Belize,Belize Rural North,,-88.40152158,17.56883699
+BLZ-000428,P21411,Saint Vincent Pallotti R.C. Primary School,Unitedville Village  Cayo District,BLZ,Cayo,Cayo South,,-88.94246,17.20926
+BLZ-000429,K24115,Saint Vincent Pallotti Roman Catholic Preschool,"United Ville, Cayo District",BLZ,Cayo,Cayo South,,-88.94284,17.20893
+BLZ-000430,K64107,San Antonio Christian Preschool,San Antiono Village,BLZ,Toledo,Toledo West,,-89.02592314,16.2438451
+BLZ-000431,K22102,San Antonio Community Preschool,San Antonio Village,BLZ,Cayo,Cayo Central,,-89.02376764,17.07936971
+BLZ-000432,K30107,San Antonio Government Preschool,San Antonio Village,BLZ,Corozal,Corozal North,,-88.39945084,18.40240233
+BLZ-000433,P30405,San Antonio Government Primary School,San Antonio Village,BLZ,Corozal,Corozal North,,-88.39945084,18.40240233
+BLZ-000434,P41202,San Antonio RC Primary School,San Antonio Rio Hondo,BLZ,Orange Walk,Orange Walk North,,-88.67571368,18.13153996
+BLZ-000435,P21202,San Antonio RC Primary School-CYO,San Antonio Village,BLZ,Cayo,Cayo Central,,-89.02133539,17.07892029
+BLZ-000436,P29201,San Antonio United Pentecostal Primary School,San Antonio Village,BLZ,Cayo,Cayo Central,,-89.02493529,17.08143009
+BLZ-000437,K64109,San Benito Poite Preschool,San Benito Polite Village,BLZ,Toledo,Toledo West,,-89.193061,16.112779
+BLZ-000438,P61111,San Benito Poite RC Primary,San Benito Poite Village,BLZ,Toledo,Toledo West,,-89.193061,16.112779
+BLZ-000439,P40105,San Carlos Government Primary,San Carlos Village,BLZ,Orange Walk,Orange Walk South,,-88.6545792,17.71818396
+BLZ-000440,P41404,San Estevan RC Primary,San Estevan Village,BLZ,Orange Walk,Orange Walk North,,-88.51120427,18.14988835
+BLZ-000441,P60202,San Felipe Government Primary,San Felipe Village,BLZ,Toledo,Toledo West,,-88.908473,16.132167
+BLZ-000442,P61203,San Francisco de Jeronimo Primary,Pueblo Viejo Village  Toledo District  Belize Central America,BLZ,Toledo,Toledo West,,-89.139379,16.207806
+BLZ-000443,K44006,San Francisco Preschool,"Price Avenue, Orange Walk Town",BLZ,Orange Walk,Orange Walk Central,,-88.56684802,18.08217814
+BLZ-000444,P41004,San Francisco RC Primary,8 Price Avenue  Orange Walk Town,BLZ,Orange Walk,Orange Walk Central,,-88.56684802,18.08217814
+BLZ-000445,K64119,San Isidro Government Preschool,San Isidro Village,BLZ,Toledo,Toledo East,,-88.54402495,16.50802041
+BLZ-000446,P60109,San Isidro Government Primary,San Isidro Village,BLZ,Toledo,Toledo East,,-88.54402495,16.50802041
+BLZ-000447,K34106,San Joaquin Preschool,San Joaquin Village,BLZ,Corozal,Corozal South East,,-88.44273109,18.34877894
+BLZ-000448,P31409,San Joaquin RC Primary School,"San Joaquin Village, Ml. 79 Phillip Goldson Highway",BLZ,Corozal,Corozal South East,,-88.44273109,18.34877894
+BLZ-000449,K40104,San Jose Government Preschool,San Jose Village  Orange Walk,BLZ,Orange Walk,Orange Walk North,,-88.56918512,18.19686419
+BLZ-000450,P40403,San Jose Government Primary,San Jose Village,BLZ,Orange Walk,Orange Walk North,,-88.56918512,18.19686419
+BLZ-000451,K44102,San Jose Nuevo Palmar RC Preschool,San Jose Nueovo Palmar,BLZ,Orange Walk,Orange Walk East,,-88.56682743,18.06054628
+BLZ-000452,P41405,San Jose Nuevo Palmar RC Primary,"San Jose Nuevo, Palmar",BLZ,Orange Walk,Orange Walk East,,-88.56682743,18.06054628
+BLZ-000453,K64103,San Jose RC Preschool,San Jose Village,BLZ,Toledo,Toledo West,,-89.094874,16.265834
+BLZ-000454,P61112,San Jose RC Primary,San Jose Village,BLZ,Toledo,Toledo West,,-89.094874,16.265834
+BLZ-000455,P21410,San Jose Succotz RC Primary,"San Jose Succotz Village  San Jose Succotz  Cayo District  Belize, C.A.",BLZ,Cayo,Cayo West,,-89.1270446,17.0840244
+BLZ-000456,K51301,San Juan Bosco Preschool,Suan Juan Bosco Village,BLZ,Stann Creek,Stann Creek West,,-88.5225968,16.56906681
+BLZ-000457,P51301,San Juan Bosco Primary School,Cow Pen/San Juan Village,BLZ,Stann Creek,Stann Creek West,,-88.5225968,16.56906681
+BLZ-000458,P49401,San Lazaro Methodist Primary,San Lazaro Village,BLZ,Orange Walk,Orange Walk South,,-88.6604248,18.03806787
+BLZ-000459,P41406,San Lazaro RC Primary,San Lazaro Village,BLZ,Orange Walk,Orange Walk South,,-88.66156877,18.0389503
+BLZ-000460,P61119,San Lucas RC Primary,San Lucas Village  Toledo District,BLZ,Toledo,Toledo West,,-89.098857,16.079023
+BLZ-000461,P41407,San Luis RC Primary,San Luis Village,BLZ,Orange Walk,Orange Walk North,,-88.6033673,18.19559373
+BLZ-000462,P61404,San Luis Rey RC Primary,San Antonio Village,BLZ,Toledo,Toledo West,,-89.02592314,16.2438451
+BLZ-000463,P61113,San Marcos RC Primary,Toledo,BLZ,Toledo,Toledo West,,-88.903861,16.215832
+BLZ-000464,P21107,San Marcos RC Primary-CYO,"San Marcos, Spanish Lookout",BLZ,Cayo,Cayo Central,,-88.97949083,17.26439879
+BLZ-000465,K64106,San Miguel Preschool,San Miguel Village,BLZ,Toledo,Toledo West,,-88.933802,16.293903
+BLZ-000466,P61405,San Miguel RC Primary,San Miguel Village  Toledo,BLZ,Toledo,Toledo West,,-88.933802,16.293903
+BLZ-000467,K34112,San Narciso RC Preschool,San Narciso Village,BLZ,Corozal,Corozal South West,,-88.5245933,18.3015616
+BLZ-000468,P31410,San Narciso RC Primary,San Narciso Village,BLZ,Corozal,Corozal South West,,-88.5245933,18.3015616
+BLZ-000469,P40406,San Pablo Government Primary,San Pablo Village,BLZ,Orange Walk,Orange Walk North,,-88.56616715,18.21294123
+BLZ-000470,P41408,San Pablo RC Primary,San Pablo Village,BLZ,Orange Walk,Orange Walk North,,-88.567178,18.2064422
+BLZ-000471,K64104,San Pedro Columbia RC Preschool,San Pedro Columbia,BLZ,Toledo,Toledo West,,-88.9574563,16.2715188
+BLZ-000472,P61406,San Pedro Columbia RC Primary,San Pedro Columbia Village,BLZ,Toledo,Toledo West,,-88.9574563,16.2715188
+BLZ-000473,K30106,San Pedro Government Preschool,San Pedro Village,BLZ,Corozal,Corozal North,,-88.4941397,18.3387883
+BLZ-000474,P30406,San Pedro Government Primary,San Pedro Village,BLZ,Corozal,Corozal North,,-88.4941397,18.3387883
+BLZ-000475,S19002,San Pedro High School,"P.0. Box 23,  San Pedro Town, A.C.  Belize, District  Belize, Central America",BLZ,Belize,Belize Rural North,,-87.95937,17.924698
+BLZ-000476,P11004,San Pedro RC Primary,Corner Barrier Reef Drive & Tarpon Street,BLZ,Belize,Belize Rural North,,-87.963401,17.917537
+BLZ-000477,P41204,San Roman RC Primary,San Roman Rio Hondo,BLZ,Orange Walk,Orange Walk North,,-88.64116966,18.1920356
+BLZ-000478,P61114,San Vicente RC Primary,San Vicente Village,BLZ,Toledo,Toledo West,,-89.199978,16.239615
+BLZ-000479,K34110,San Victor RC Preschool,San Victor Village,BLZ,Corozal,Corozal South West,,-88.57569464,18.26100978
+BLZ-000480,P31411,San Victor RC Primary,San Victor Village,BLZ,Corozal,Corozal South West,,-88.57569464,18.26100978
+BLZ-000481,K10104,Sandhill Community Preschool,"18 miles Phillip Goldson Highway, Sandhill Village",BLZ,Belize,Belize Rural North,,-88.3725662,17.6373639
