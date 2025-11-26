@@ -1,72 +1,70 @@
 ---
 layout: default
-title: "Global Education Observatory"
+title: Global Education Observatory
 ---
 
-<!-- Hero Section -->
-<div class="max-w-5xl mx-auto text-center py-10">
-  <h1 class="text-4xl font-bold text-gray-800">Global Education Observatory</h1>
-  <p class="text-lg text-gray-600 mt-4">
-    Explore harmonized education datasets across geospatial, personnel, resources, and learning outcomes domains.
-  </p>
+<!-- HERO SECTION WITH FULL-WIDTH MAP -->
+<div class="relative w-full h-[400px] md:h-[500px]">
+  <div id="map" class="absolute inset-0"></div>
+  <div class="absolute inset-0 bg-black/40 flex items-center justify-center">
+    <h1 class="text-white text-4xl md:text-6xl font-bold tracking-wide drop-shadow-lg">
+      Global Education Observatory
+    </h1>
+  </div>
 </div>
 
-<!-- Leaflet Map -->
-<div class="max-w-5xl mx-auto mb-10">
-  <div id="map" class="h-96 w-full rounded-xl shadow"></div>
+<!-- THEME GRID -->
+<div class="max-w-6xl mx-auto py-12 px-6">
+
+  <h2 class="text-2xl text-white font-semibold mb-8">
+    Explore Education Data by Theme
+  </h2>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+
+    <!-- Geospatial -->
+    <a href="/global-education-observatory/themes/geospatial.html"
+       class="bg-gray-900 border border-gray-700 hover:border-blue-500 transition p-6 rounded-xl flex items-center space-x-4">
+      <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png"
+           class="h-12 opacity-80">
+      <span class="text-xl text-gray-200">Geospatial</span>
+    </a>
+
+    <!-- Personnel -->
+    <a href="/global-education-observatory/themes/personnel.html"
+       class="bg-gray-900 border border-gray-700 hover:border-blue-500 transition p-6 rounded-xl flex items-center space-x-4">
+      <img src="https://cdn-icons-png.flaticon.com/512/1995/1995573.png"
+           class="h-12 opacity-80">
+      <span class="text-xl text-gray-200">Personnel</span>
+    </a>
+
+    <!-- Resources -->
+    <a href="/global-education-observatory/themes/resources.html"
+       class="bg-gray-900 border border-gray-700 hover:border-blue-500 transition p-6 rounded-xl flex items-center space-x-4">
+      <img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png"
+           class="h-12 opacity-80">
+      <span class="text-xl text-gray-200">Resources & Infrastructure</span>
+    </a>
+
+    <!-- Outcomes -->
+    <a href="/global-education-observatory/themes/outcomes.html"
+       class="bg-gray-900 border border-gray-700 hover:border-blue-500 transition p-6 rounded-xl flex items-center space-x-4">
+      <img src="https://cdn-icons-png.flaticon.com/512/2548/2548585.png"
+           class="h-12 opacity-80">
+      <span class="text-xl text-gray-200">Learning Outcomes</span>
+    </a>
+
+  </div>
 </div>
-
-<!-- Theme Cards -->
-<div class="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6 pb-20">
-
-  <a href="/global-education-observatory/themes/geospatial.html" 
-     class="p-6 bg-white rounded-xl shadow hover:shadow-lg transition">
-    <h2 class="text-xl font-semibold">Geospatial</h2>
-    <p class="text-gray-600 mt-2">Boundary files, school locations, administrative layers.</p>
-  </a>
-
-  <a href="/global-education-observatory/themes/personnel.html" 
-     class="p-6 bg-white rounded-xl shadow hover:shadow-lg transition">
-    <h2 class="text-xl font-semibold">Personnel</h2>
-    <p class="text-gray-600 mt-2">Teacher counts, qualifications, pupil-teacher ratios.</p>
-  </a>
-
-  <a href="/global-education-observatory/themes/resources/" 
-     class="p-6 bg-white rounded-xl shadow hover:shadow-lg transition">
-    <h2 class="text-xl font-semibold">Resources & Infrastructure</h2>
-    <p class="text-gray-600 mt-2">Electricity, classrooms, water, sanitation, infrastructure.</p>
-  </a>
-
-  <a href="/global-education-observatory/themes/outcomes/" 
-     class="p-6 bg-white rounded-xl shadow hover:shadow-lg transition">
-    <h2 class="text-xl font-semibold">Learning Outcomes</h2>
-    <p class="text-gray-600 mt-2">Test scores, dropout, completion rates, transitions.</p>
-  </a>
-
-  {{ site.geospatial | size }} geospatial datasets<br>
-  {{ site.personnel | size }} personnel datasets<br>
-  {{ site.baseurl }}
-    
-
-</div>
-
-<!-- Load Leaflet -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-
-<!-- Load Tailwind Safely -->
-<script src="https://cdn.tailwindcss.com"></script>
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
+var map = L.map('map', {
+  zoomControl: false,
+  scrollWheelZoom: false,
+  dragging: false
+}).setView([20, 10], 2);
 
-  // Initialize the map
-  var map = L.map('map').setView([10, 20], 2);
-
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 6,
-    attribution: '© OpenStreetMap'
-  }).addTo(map);
-
-});
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: ''
+}).addTo(map);
 </script>
