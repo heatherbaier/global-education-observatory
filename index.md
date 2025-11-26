@@ -63,10 +63,21 @@ document.addEventListener("DOMContentLoaded", function() {
   // Initialize the map
   var map = L.map('map').setView([10, 20], 2);
 
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  // load wms form geoserver
+  const mywms = L.tileLayer.wms("https://globaleducationobservatory.org/geoserver/geo/wms", {
+        layers: "geo:phl_adm0",
+        format: 'image/png',
+        transparent: true,
+        version: '1.1.0',
+        attribution: "country layer"
+    });
+
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
     maxZoom: 6,
-    attribution: '© OpenStreetMap'
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
   }).addTo(map);
+
+  mywms.addTo(map);
 
 });
 </script>
