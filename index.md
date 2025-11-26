@@ -3,8 +3,10 @@ layout: default
 title: "Global Education Observatory"
 ---
 
-<div class="bg-gray-900 text-gray-100 py-10">
-  <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6 px-6">
+<div class="min-h-screen bg-[#0f172a] text-white">
+
+  <!-- Row 1: Title + Map -->
+  <div class="grid grid-cols-3 gap-6 px-12 py-16">
 
     <!-- LEFT 1/3 -->
     <div>
@@ -19,7 +21,7 @@ title: "Global Education Observatory"
 
     <!-- RIGHT 2/3 MAP -->
     <div class="md:col-span-2">
-      <div id="map" class="h-72 rounded-xl shadow-lg"></div>
+      <div id="map" class="w-full h-96 rounded-lg shadow-xl">
     </div>
   </div>
 </div>
