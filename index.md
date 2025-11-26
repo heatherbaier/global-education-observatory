@@ -63,21 +63,31 @@ document.addEventListener("DOMContentLoaded", function() {
   // Initialize the map
   var map = L.map('map').setView([10, 20], 2);
 
-  // load wms form geoserver
-  const mywms = L.tileLayer.wms("https://globaleducationobservatory.org/geoserver/geo/wms", {
-        layers: "geo:phl_adm0",
-        format: 'image/png',
-        transparent: true,
-        version: '1.1.0',
-        attribution: "country layer"
-    });
+
 
   L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
     maxZoom: 6,
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
   }).addTo(map);
 
-  mywms.addTo(map);
+  const countryList = [
+      {% for file in site.static_files %}
+        {% if file.path contains '/data/geospatial/' %}
+          "{{ file.basename | slice: 0, 3 }}",
+        {% endif %}
+      {% endfor %}
+    ];
+
+  // Loop each WMS layer
+  countryList.forEach(iso => {
+    L.tileLayer.wms("https://globaleducationobservatory.org/geoserver/geo/wms", {
+      layers: `geo:${iso}_adm0`,
+      format: 'image/png',
+      transparent: true,
+      version: '1.1.0',
+      attribution: "Global Education Observatory"
+    }).addTo(map);
+  });
 
 });
 </script>
