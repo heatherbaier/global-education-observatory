@@ -8,5 +8,5 @@ theme: geospatial
 iso: bol
 lat: -16.3
 lon: -63.6
-zoom: 3
+zoom: 4
 ---
