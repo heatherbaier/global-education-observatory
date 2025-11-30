@@ -66,10 +66,11 @@
   <script>
 
     const iso = "{{ page.iso }}";
-    const centroid = "{{ page.centroid }}";
+    const lat = "{{ page.lat }}";
+    const lon = "{{ page.lon }}";
     const zoom = "{{ page.zoom }}";
 
-    const map = L.map('map').setView(centroid, zoom); // Honduras center approx
+    const map = L.map('map').setView([lat, lon], zoom); // Honduras center approx
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 12,
