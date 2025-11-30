@@ -8,5 +8,5 @@ theme: geospatial
 iso: bra
 lat: -14.242915
 lon: -53.189266
-zoom: 5
+zoom: 3
 ---
