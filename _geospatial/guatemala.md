@@ -7,6 +7,6 @@ layout: dataset
 theme: geospatial
 iso:: gtm
 lat: 15.7835
-lon: 90.2308
+lon: -90.2308
 zoom: 7
 ---

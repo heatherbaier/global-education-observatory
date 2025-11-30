@@ -8,5 +8,5 @@ theme: geospatial
 iso: chl
 lat: -35.675147
 lon: -71.542969
-zoom: 5
+zoom: 3
 ---
