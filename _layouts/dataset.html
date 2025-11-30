@@ -72,7 +72,7 @@
       attribution: '© OpenStreetMap'
     }).addTo(map);
 
-    const iso = "{{ page.country }}";
+    const iso = "{{ page.iso }}";
 
     L.tileLayer.wms("https://globaleducationobservatory.org/geoserver/geo/wms", {
       layers: `geo:${iso}`,
