@@ -65,14 +65,16 @@
   <!-- Map Script -->
   <script>
 
-    const map = L.map('map')//.setView([14.5, -86.4], 7); // Honduras center approx
+    const iso = "{{ page.iso }}";
+    const centroid = "{{ page.centroid }}";
+    const zoom = "{{ page.zoom }}";
+
+    const map = L.map('map').setView(centroid, zoom); // Honduras center approx
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 12,
       attribution: '© OpenStreetMap'
     }).addTo(map);
-
-    const iso = "{{ page.iso }}";
 
     L.tileLayer.wms("https://globaleducationobservatory.org/geoserver/geo/wms", {
       layers: `geo:${iso}`,
@@ -82,20 +84,20 @@
       attribution: "Global Education Observatory"
     }).addTo(map);
 
-    fetch(`https://globaleducationobservatory.org/geoserver/geo/wms?request=GetCapabilities`)
-      .then(r => r.text())
-      .then(xml => {
-        const parser = new DOMParser();
-        const data = parser.parseFromString(xml, "text/xml");
-        const layer = data.querySelector(`Layer[Name="geo:${iso}"]`);
-        const bbox = layer.querySelector("EX_GeographicBoundingBox");
-        const minx = parseFloat(bbox.children[0].textContent);
-        const miny = parseFloat(bbox.children[1].textContent);
-        const maxx = parseFloat(bbox.children[2].textContent);
-        const maxy = parseFloat(bbox.children[3].textContent);
+    // fetch(`https://globaleducationobservatory.org/geoserver/geo/wms?request=GetCapabilities`)
+    //   .then(r => r.text())
+    //   .then(xml => {
+    //     const parser = new DOMParser();
+    //     const data = parser.parseFromString(xml, "text/xml");
+    //     const layer = data.querySelector(`Layer[Name="geo:${iso}"]`);
+    //     const bbox = layer.querySelector("EX_GeographicBoundingBox");
+    //     const minx = parseFloat(bbox.children[0].textContent);
+    //     const miny = parseFloat(bbox.children[1].textContent);
+    //     const maxx = parseFloat(bbox.children[2].textContent);
+    //     const maxy = parseFloat(bbox.children[3].textContent);
 
-        map.fitBounds([[miny, minx], [maxy, maxx]]);
-      });
+    //     map.fitBounds([[miny, minx], [maxy, maxx]]);
+    //   });
 
 
 
