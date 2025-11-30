@@ -72,16 +72,27 @@
       attribution: '© OpenStreetMap'
     }).addTo(map);
 
-    // Load GeoJSON
-    fetch("{{ page.file }}")
-      .then(res => res.json())
-      .then(data => {
-        let features = data.features.slice(0, 10); // first 10 points
+    const iso = "{{ page.country }}";
 
-        L.geoJSON(features, {
-          pointToLayer: (feature, latlng) => L.marker(latlng)
-        }).addTo(map);
-      });
+    L.tileLayer.wms("https://globaleducationobservatory.org/geoserver/geo/wms", {
+      layers: `geo:${iso}`,
+      format: 'image/png',
+      transparent: true,
+      version: '1.1.0',
+      attribution: "Global Education Observatory"
+    }).addTo(map);
+
+
+    // // Load GeoJSON
+    // fetch("{{ page.file }}")
+    //   .then(res => res.json())
+    //   .then(data => {
+    //     let features = data.features.slice(0, 10); // first 10 points
+
+    //     L.geoJSON(features, {
+    //       pointToLayer: (feature, latlng) => L.marker(latlng)
+    //     }).addTo(map);
+    //   });
       
   </script>
 
