@@ -1,7 +1,7 @@
 ---
 title: "Honduras Resources"
 country: "Honduras"
-file: "/global-education-observatory/data/resources/hnd_resources.csv"
+csv: "/global-education-observatory/data/resources/hnd_resources.csv"
 layout: dataset_resources
 theme: resources
 ---

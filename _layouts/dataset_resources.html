@@ -18,22 +18,23 @@
 
   <!-- Download buttons -->
   <div class="mt-6 flex gap-4">
-    <a href="{{ page.file }}" class="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700">
-      Download CSV
+
+    <a href="{{ page.csv }}" download
+       class="block border rounded-xl p-6 bg-white shadow hover:shadow-md">
+      <h2 class="font-bold text-lg mb-1">Download CSV</h2>
+      <p class="text-sm text-gray-600">{{ page.csv }}</p>
     </a>
-    <!-- <a href="{{ page.file | replace: '.csv','.geojson' }}" class="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700">
-      Download GeoJSON
-    </a> -->
+
   </div>
 
   <!-- Year Selector -->
-  <div class="mt-8">
+  <!-- <div class="mt-8">
     <label class="font-semibold block mb-2">Select Year:</label>
     <select id="yearSelect" class="border p-2 rounded w-48"></select>
-  </div>
+  </div> -->
 
   <!-- KPI cards -->
-  <div id="kpiContainer" class="grid grid-cols-2 md:grid-cols-3 gap-5 mt-8"></div>
+  <!-- <div id="kpiContainer" class="grid grid-cols-2 md:grid-cols-3 gap-5 mt-8"></div> -->
 
   <!-- Table of metadata -->
   <!-- <div class="mt-12">
