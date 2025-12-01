@@ -33,5 +33,5 @@ defaults:
       path: ""
       type: resources
     values:
-      theme: resources
       layout: dataset_resources
+      theme: resources
