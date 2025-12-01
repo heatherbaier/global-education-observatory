@@ -31,13 +31,13 @@ title: "Global Education Observatory"
     <p class="text-gray-600 mt-2">Teacher counts, qualifications, pupil-teacher ratios.</p>
   </a>
 
-  <a href="/global-education-observatory/themes/resources/" 
+  <a href="/global-education-observatory/themes/resources.html" 
      class="p-6 bg-white rounded-xl shadow hover:shadow-lg transition">
     <h2 class="text-xl font-semibold">Resources & Infrastructure</h2>
     <p class="text-gray-600 mt-2">Electricity, classrooms, water, sanitation, infrastructure.</p>
   </a>
 
-  <a href="/global-education-observatory/themes/outcomes/" 
+  <a href="/global-education-observatory/themes/outcomes.html" 
      class="p-6 bg-white rounded-xl shadow hover:shadow-lg transition">
     <h2 class="text-xl font-semibold">Learning Outcomes</h2>
     <p class="text-gray-600 mt-2">Test scores, dropout, completion rates, transitions.</p>
