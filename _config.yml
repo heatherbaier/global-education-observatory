@@ -28,3 +28,10 @@ defaults:
     values:
       layout: dataset_personnel
       theme: personnel
+
+  - scope:
+      path: ""
+      type: resources
+    values:
+      theme: resources
+      layout: dataset_resources

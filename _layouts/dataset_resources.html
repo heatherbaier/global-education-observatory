@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <title>{{ page.title }}</title>
+</head>
+
+<body class="bg-gray-50 text-gray-800">
+
+<div class="max-w-6xl mx-auto py-10">
+
+  <!-- Title & intro -->
+  <h1 class="text-3xl font-bold">{{ page.country }} — Resources & Infrastructure</h1>
+  <p class="text-gray-600 mt-2">
+    School-level infrastructure and access indicators (water, internet, sanitation, etc).
+  </p>
+
+  <!-- Download buttons -->
+  <div class="mt-6 flex gap-4">
+    <a href="{{ page.file }}" class="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700">
+      Download CSV
+    </a>
+    <a href="{{ page.file | replace: '.csv','.geojson' }}" class="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700">
+      Download GeoJSON
+    </a>
+  </div>
+
+  <!-- Year Selector -->
+  <div class="mt-8">
+    <label class="font-semibold block mb-2">Select Year:</label>
+    <select id="yearSelect" class="border p-2 rounded w-48"></select>
+  </div>
+
+  <!-- KPI cards -->
+  <div id="kpiContainer" class="grid grid-cols-2 md:grid-cols-3 gap-5 mt-8"></div>
+
+  <!-- Table of metadata -->
+  <!-- <div class="mt-12">
+    <h2 class="text-xl font-semibold mb-4">Column Metadata</h2>
+    <table class="w-full text-sm border">
+      <tr class="bg-gray-100">
+        <th class="p-2 border">Column</th>
+        <th class="p-2 border">Description</th>
+      </tr>
+      {% for col in site.data.resources.metadata.columns %}
+      <tr>
+        <td class="p-2 border">{{ col.name }}</td>
+        <td class="p-2 border">{{ col.description }}</td>
+      </tr>
+      {% endfor %}
+    </table>
+  </div> -->
+
+</div>
+
+<script>
+async function load() {
+  const response = await fetch("{{ page.file }}");
+  const text = await response.text();
+
+  const rows = text.split("\n").map(r => r.split(","));
+  const header = rows[0];
+  const data = rows.slice(1);
+
+  const yearIdx = header.indexOf("year");
+
+  const years = [...new Set(data.map(r => r[yearIdx]))];
+  const select = document.getElementById('yearSelect');
+  years.forEach(y => {
+    const o = document.createElement('option');
+    o.value = o.textContent = y;
+    select.appendChild(o);
+  });
+
+  function updateKPI() {
+    const selectedYear = select.value;
+    const filtered = data.filter(r => r[yearIdx] === selectedYear);
+
+    const indicators = ["water","internet","electricity","computers",
+        "disability_infrastructure","sanitation_facilities",
+        "ss_sanitation_facilities","handwashing_facilities"];
+
+    const container = document.getElementById('kpiContainer');
+    container.innerHTML = "";
+
+    indicators.forEach(ind => {
+      if (!header.includes(ind)) return;
+      const idx = header.indexOf(ind);
+
+      const countTrue = filtered.filter(r => r[idx] === "1").length;
+
+      const card = `
+        <div class="p-4 bg-white shadow rounded-lg">
+          <div class="text-4xl font-bold">${countTrue}</div>
+          <div class="text-gray-600">${ind}</div>
+        </div>`;
+      container.innerHTML += card;
+    });
+  }
+
+  select.addEventListener('change', updateKPI);
+  updateKPI();
+}
+load();
+</script>
+
+</body>
+</html>
